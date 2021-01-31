@@ -44,7 +44,7 @@ work:
   sublabel: Riferimenti disponibili su richiesta. Visita <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> per vedere vari progetti fatti da me.
   entries:
     - time: Ott. 2018 - Presente
-      place: "<b><a href='https://www.insupport.it/' target='_blank'>InSupport</a> / <a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> Forlì, Italia"
+      place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> Forlì, Italia"
       position: Tecnico Informatico presso l'Amministrazione Provinciale di Forlì-Cesena
       activities: Configurazione server, risoluzione di problemi in remoto e sul posto, controllo di qualità di hardware, reinstallazione di sistemi operativi, scrivere documentazione tecnica e manuali per utenti
       technologies: Windows AD, Linux, ticketing system, Zabbix, Iride, Libra

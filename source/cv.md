@@ -44,7 +44,7 @@ work:
   sublabel: References available upon request. Visit <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> for various projects I made.
   entries:
     - time: Oct. 2018 - Present
-      place: "<b><a href='https://www.insupport.it/' target='_blank'>InSupport</a> / <a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> Forlì, Italy"
+      place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> Forlì, Italy"
       position: System Admninistrator in the Provincial Council
       activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, fixing bugs in software, provisioning workstations, configuring network, writing technical documentation and manuals for IT dept. and other depts.
       technologies: Windows Server, Linux, Zabbix, HDA (ticketing system), Iride, Libra
