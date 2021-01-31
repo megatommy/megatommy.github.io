@@ -1,0 +1,145 @@
+body {
+    background-color: #f7f4f1;
+    background-image: url(/assets/img/fabric-light.png);
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    padding-bottom: 40px;
+}
+
+.container-fluid {
+    margin: 0 auto;
+    max-width: 1200px;
+}
+img {
+    max-width: 100%;
+}
+#menu {
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    text-align: center;
+}
+#menu ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+#menu ul li {
+    display: inline-block;
+}
+.menu-mobile {
+    cursor: pointer;
+    display: none;
+}
+#menu_active:checked ~ ul {
+    display: block;
+}
+
+#menu ul li a, .menu-mobile {
+    font-size: 1.1em;
+    line-height: 50px;
+    color: #787878;
+    text-decoration: none;
+}
+#menu ul li a {padding: 16px 20px;}
+
+#menu ul li a:hover, #menu ul li.selected a, .menu-mobile:hover, .menu-mobile:focus {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.title {
+    padding: 30px 0;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+.title a {
+	color: #333;
+}
+.title a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+.page-title {
+    font-size: 2.5em;
+    font-weight: normal;
+    margin: .5em 0 0;
+}
+
+.page-subtitle {
+    margin: 0;
+    font-size: 1.1em;
+    font-weight: normal;
+    color: #333;
+    font-style: italic;
+}
+
+.page-content {
+    line-height: 2em;
+}
+.showcase {
+    margin-top:30px;
+}
+.showcase-img {
+    width: 100%;
+}
+.image-text {
+    font-size: 0.8em;
+    font-style: italic;
+}
+.showcase-name {
+    text-align: center;
+    padding: 10px 0;
+}
+.showcase:hover .showcase-name {
+    text-decoration: underline;
+}
+.project-header {
+    margin-top: 2em;
+    margin-bottom: 0;
+    font-weight: normal;
+}
+.blog-title {
+    margin: 0;
+    padding: 1em 0;
+    font-size: 1.3em;
+}
+
+/* Homepage slideshow */
+.fadein {
+    position:relative;
+}
+.fadein img {
+    position:absolute;
+    left:0;
+    top:0;
+    transition:opacity 2s;
+    opacity:1;
+}
+.fadein img.is-hidden {
+    opacity:0;
+}
+
+/* Contact page */
+.social-links {
+    list-style: none;
+    padding: 0;
+}
+
+.social-links li {
+    margin-bottom: 10px;
+}
+
+
+/* Media queries */
+@media(max-width: 768px){
+    .menu-mobile {display: block;}
+    #menu ul{display: none;}
+    #menu ul li {display: block;}
+
+    .blog-title a {display: block;}
+    .blog-title .separator {display: none;}
+}

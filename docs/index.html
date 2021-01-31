@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Thomas, de, Luca, programmer, amsterdam">
+    <meta name="description" content="Website of Thomas de Luca">
+    
+    <meta property="og:title" content="About me" />
+    <meta property="og:description" content="Website of Thomas de Luca" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Website of Thomas de Luca"/>
+    <meta property="og:url" content="/" />
+	
+    <title>About me - Thomas de Luca</title>
+	
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='//fonts.googleapis.com/css?family=Raleway:500,600' rel='stylesheet' type='text/css'>
+	<link rel="shortcut icon" href="/assets/img/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/assets/css/style.css" rel="stylesheet"/>
+</head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1 class="title"><a href="/">Thomas de Luca</a></h1>
+                </div>
+
+                <div class="col-xs-12">
+    <nav id="menu">
+    	<label for="menu_active" class="menu-mobile">Menu</label>
+        <input type="checkbox" id="menu_active" style="display: none;" />
+        <ul>
+            <li class="selected"><a href="/">About me</a></li>
+            <li ><a href="/portfolio">Portfolio</a></li>
+            <li ><a href="/hobbies">Hobbies</a></li>
+            <li ><a href="/contact">Contact</a></li>
+        </ul>
+    </nav>
+</div>
+                <div class="col-xs-12">
+                    <div class="page">
+                        <h1 class="page-title">About me</h1>
+                                                <div class="page-content">
+                            <div class="row">
+    <div class="col-sm-4 col-sm-push-8">
+    	<div class="fadein">
+	    		        	<img src="/assets/img/Thomas.png" class="showcase-img " />
+	        	        	<img src="/assets/img/thomas_de_luca_diabolo.png" class="showcase-img is-hidden " />
+	                </div>
+    	<img src="/assets/img/500.png" />
+    </div>
+    <div class="col-sm-8 col-sm-pull-4">
+        <p>Hello! I am Thomas de Luca. I'm a half Italian, half Dutch guy who likes <a href="/portfolio">code</a>, travel, <a href="/hobbies">juggle</a> and relax in the sun.</p>
+
+<p>Check out my <a href="/portfolio">Portfolio</a> to see all the stuff I've made with my blood, sweat and tears. Most of the projects are experiments to see how a particular library/framework works.</p>
+
+<p>If you want to say hi, head over to my <a href="/contact">Contact</a> page, where you can also find my curriculum vitae.</p>
+
+<script>
+window.addEventListener("load", function(){
+
+  var root = document.querySelector('.fadein');
+
+  root.addEventListener('transitionend', function(){
+    root.insertBefore(root.querySelector(':first-child.is-hidden'), null);
+  });
+  setInterval(function(){
+    root.querySelector(':first-child').classList.add('is-hidden');
+    root.querySelector(':nth-child(2)').classList.remove('is-hidden');
+  }, 10000);
+});
+</script>
+    </div>
+</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </body>
+</html>
