@@ -13,4 +13,4 @@ For me a website is a playground where the site itself is an axpression of yours
 
 This template uses jQuery to slide up and down. Therefore it may not work on some mobile devices. But oh well, it’s just an experiment so I don’t really care about it.
 
-[Try this template here]({{ site.projects_url }}/newsite/)!
+[Try this template here](https://projects.thomasdeluca.nl/newsite/)!

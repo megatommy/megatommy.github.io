@@ -16,4 +16,4 @@ I wrote the Open Dashboard Application (ODA) to be able to login faster. It has 
 
 You must have some basic knowledge of JSON to configure your own username and bookmarks.
 
-[Download it here]({{ site.projects_url }}/ODA.html) (right click > Save as…) and save it on an USB drive. When you are in the OBA, connect your USB and use this file to login! It does NOT save of send any information to me, you can check the source, since it’s completely html, css and js.
+[Download it here](https://projects.thomasdeluca.nl/ODA.html) (right click > Save as…) and save it on an USB drive. When you are in the OBA, connect your USB and use this file to login! It does NOT save of send any information to me, you can check the source, since it’s completely html, css and js.

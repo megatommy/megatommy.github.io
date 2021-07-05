@@ -15,4 +15,4 @@ Search no further! Here is “Are you sure?!” Bookmark!
 
 This little app is like a man in the middle between you and the website! Fill in a website you visit too often, and bookmark the page as your new bookmark (the app will try to get the right icon too). Every time you are tempted to click on the bookmark, you get the “Are you sure?!” page!
 
-[Try it today!]({{ site.projects_url }}/ays/)
+<a href="https://projects.thomasdeluca.nl/ays" target="_blank">Try it today!</a>
