@@ -36,13 +36,18 @@ tech:
     Librerie & Framework: Bootstrap, jQuery, Vue, NodeJS, Laravel
     CMS & Site Generators: WordPress, GravCMS, Jekyll, Hugo
     Project management: Git, Redmine, YouTrack, Kaseya BMS
-    Software di server: Windows Server, Linux servers (CentOS, Ubuntu), Virtualbox, Docker, Apache
+    Software di server: Windows, Linux, Virtualbox, VMWare, Docker, Apache
     Hardware: Raspberry Pi, Cambium Networks, stampanti Lexmark
 
 work:
   label: Esperienza lavorativa
   sublabel: Riferimenti disponibili su richiesta. Visita <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> per vedere vari progetti fatti da me.
   entries:
+    - time: Feb. 2021 - Presente
+      place: "<b><a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a></b>, Remoto"
+      position: Tutor per corso intensivo di sviluppo web
+      activities: Aiutare gli studenti del corso rispondendo alle loro domande e i loro dubbi su i linguaggi di programmazione, preparare e dare dei recap, controllare i compiti fatti dagli studenti
+      technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Ott. 2018 - Presente
       place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> Forlì, Italia"
       position: Tecnico Informatico presso l'Amministrazione Provinciale di Forlì-Cesena

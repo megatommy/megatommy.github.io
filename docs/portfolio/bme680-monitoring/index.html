@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Thomas, de, Luca, programmer, amsterdam">
+    <meta name="description" content="Website of Thomas de Luca">
+    
+    <meta property="og:title" content="BME680 Monitoring" />
+    <meta property="og:description" content="Website of Thomas de Luca" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Website of Thomas de Luca"/>
+    <meta property="og:url" content="/portfolio/bme680-monitoring" />
+	
+    <title>BME680 Monitoring - Thomas de Luca</title>
+	
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='//fonts.googleapis.com/css?family=Raleway:500,600' rel='stylesheet' type='text/css'>
+	<link rel="shortcut icon" href="/assets/img/favicon.ico">
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/assets/css/style.css" rel="stylesheet"/>
+</head>
+    <body>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h1 class="title"><a href="/">Thomas de Luca</a></h1>
+                </div>
+
+                <div class="col-xs-12">
+    <nav id="menu">
+    	<label for="menu_active" class="menu-mobile">Menu</label>
+        <input type="checkbox" id="menu_active" style="display: none;" />
+        <ul>
+            <li ><a href="/">About me</a></li>
+            <li class="selected"><a href="/portfolio">Portfolio</a></li>
+            <li ><a href="/hobbies">Hobbies</a></li>
+            <li ><a href="/contact">Contact</a></li>
+        </ul>
+    </nav>
+</div>
+                <div class="col-xs-12">
+                    <div class="page">
+                        <h1 class="page-title">BME680 Monitoring</h1>
+                        <h3 class="page-subtitle">Built using BME680 sensor, Raspberry Pi, Grafana</h3>                        <div class="page-content">
+                            <div class="row">
+    <div class="col-sm-4 col-sm-push-8">
+        <img src="/assets/img/projects/bme680-monitoring.png" class="showcase-img" />
+    </div>
+    <div class="col-sm-8 col-sm-pull-4">
+        <p>This project consisted of using a BME680 sensor to gather data from the environment using a Raspberry Pi, and visualizing the data through Grafana.</p>
+
+<p><a href="https://github.com/megatommy/bme680-collector">GitHub repository</a></p>
+
+<h2>The BME680</h2>
+
+<p>The BME680 is a small sensor which has the following build in sensors:</p>
+
+<ul>
+<li>Temperature</li>
+<li>Humidity</li>
+<li>Pressure</li>
+<li>Air Quality (VOC gasses)</li>
+</ul>
+
+<p>So using just one sensor you get all these sensors! It's a very nice sensor to start tinkering.</p>
+
+<p>I bought it from the Pihut for around €20,00.</p>
+
+<p>I used the <a href="https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-bme680-breakout">guide provided by Pimoroni</a> to connect the BME680 sensor to the Raspberry Pi</p>
+
+<h2>Rasperry Pi</h2>
+
+<p>I still had my old Raspberry Pi Model 2B lying around and decided to use this one for the project.</p>
+
+<h2>The code</h2>
+
+<p><img src="/assets/img/projects/bme680-service-screenshot.png" alt="BME680 systemd service" /></p>
+
+<p>I used the <a href="https://github.com/pimoroni/bme680-python">code and examples provided by Pimoroni</a> to get started and have a way of getting the data of the sensor written to my terminal.</p>
+
+<p>After that I installed MariaDB on my Pi, and modified the Pimoroni code to be able to write the data in the database.</p>
+
+<p>I also wrote a systemd unit file, so the code would automatically start collecting data when the Pi would boot.</p>
+
+<h2>Grafana</h2>
+
+<p><img src="/assets/img/projects/bme680-grafana-dashboard.png" alt="Grafana dashboard with BME680 data" /></p>
+
+<p>The final step was to set up Grafana. I used a <a href="https://grafana.com/tutorials/install-grafana-on-raspberry-pi/">guide provided by Grafana</a> to install Grafana on the Raspberry Pi.</p>
+
+<p>After the installation I configured Grafana to read the values from the created database.. and voilà!</p>
+
+<p>For more information and code used and created, please <a href="https://github.com/megatommy/bme680-collector">visit my repository on Github</a></p>
+    </div>
+</div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </body>
+</html>

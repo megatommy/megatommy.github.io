@@ -64,7 +64,7 @@
             <!-- <div><i class='fa fa-fw fa-phone'></i> +39 348 247 3295</div> -->
             <div><i class='fa fa-fw fa-envelope'></i> thomas.de.luca@hotmail.com</div>
             <div><i class='fa fa-fw fa-globe'></i> <a href='https://www.thomasdeluca.nl' target="_blank">thomasdeluca.nl</a></div>
-            <div><i class="fa fa-fw fa-gitlab"></i> <a href="https://gitlab.com/tdeluca" target="_blank">gitlab.com/tdeluca</a></div>
+            <div><i class="fa fa-fw fa-github"></i> <a href="https://github.com/megatommy" target="_blank">github.com/megatommy</a></div>
             </div>
         <hr style="border-top-color: #888;" />
     
@@ -105,7 +105,7 @@
             </tr>
             @endforeach
         </table>
-
+        <br />
         <h2><i class='fa fa-fw fa-briefcase'></i> {!! $page->work->label !!}</h2>
         <p><i>{!! $page->work->sublabel !!}</i></p>
         <table class="td-divider td-alignRight td-alignTop">
@@ -121,7 +121,7 @@
             </tr>
             @endforeach
         </table>
-<div class="page-break"></div>
+<!-- <div class="page-break"></div> -->
         <h2><i class='fa fa-fw fa-graduation-cap'></i> {!! $page->internships->label !!}</h2>
         <table class="td-divider td-alignRight td-alignTop">
             @foreach($page->internships->entries as $entry)

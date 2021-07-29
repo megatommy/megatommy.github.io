@@ -36,17 +36,22 @@ tech:
     Libraries & Frameworks: Bootstrap, jQuery, Vue, NodeJS, Laravel
     CMS & Site Generators: WordPress, GravCMS, Jekyll, Hugo
     Project management: Git, Redmine, YouTrack, Kaseya BMS
-    Server software: Windows Server, Linux servers (CentOS, Ubuntu), Virtualbox, Docker, Apache
+    Server software: Windows, Linux, Virtualbox, VMWare, Docker, Apache
     Hardware: Raspberry Pi, Cambium Networks, Lexmark printers
 
 work:
   label: Work experience
   sublabel: References available upon request. Visit <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> for various projects I made.
   entries:
+    - time: Feb. 2021 - Present
+      place: "<b><a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a></b>, Remote"
+      position: Tutor for an intensive web development course
+      activities: Helping students of the course with their questions and doubts regarding programming languages, preparing and giving recaps, verifying the homework done by the students
+      technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Oct. 2018 - Present
       place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> Forlì, Italy"
-      position: System Admninistrator in the Provincial Council
-      activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, fixing bugs in software, provisioning workstations, configuring network, writing technical documentation and manuals for IT dept. and other depts.
+      position: System Administrator in the Provincial Council
+      activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring network, writing technical documentation
       technologies: Windows Server, Linux, Zabbix, HDA (ticketing system), Iride, Libra
     - time: Jan. 2019 - May 2019
       place: <b><a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a></b> (Apprenticeship), Forlì, Italy

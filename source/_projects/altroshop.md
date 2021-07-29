@@ -14,6 +14,7 @@ weight: 98
 Altroshop was created during the COVID-19 crisis. During this crisis in Italy all the shops had to close and many started selling online, including Equamente. Thanks to Altroshop customers can order and buy products from Equamente online.
 
 The things I did to make the webshop fully functional:
+
 - Generating LetsEncrypt certificates for https
 - Installing and configuring Prestashop on the webserver
 - Programmed small scripts to resize and compress more than 700 product images
