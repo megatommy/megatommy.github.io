@@ -49,7 +49,7 @@ work:
       activities: Aiutare gli studenti del corso rispondendo alle loro domande e i loro dubbi su i linguaggi di programmazione, preparare e dare dei recap, controllare i compiti fatti dagli studenti
       technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Ott. 2018 - Presente
-      place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> Forlì, Italia"
+      place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> / <b><a href='https://www.insupport.it/' target='_blank'>InSupport</a></b> Forlì, Italia"
       position: Tecnico Informatico presso l'Amministrazione Provinciale di Forlì-Cesena
       activities: Configurazione server, risoluzione di problemi in remoto e sul posto, controllo di qualità di hardware, reinstallazione di sistemi operativi, scrivere documentazione tecnica e manuali per utenti
       technologies: Windows AD, Linux, ticketing system, Zabbix, Iride, Libra

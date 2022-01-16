@@ -49,7 +49,7 @@ work:
       activities: Helping students of the course with their questions and doubts regarding programming languages, preparing and giving recaps, verifying the homework done by the students
       technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Oct. 2018 - Present
-      place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> Forlì, Italy"
+      place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> / <b><a href='https://www.insupport.it/' target='_blank'>InSupport</a></b> Forlì, Italy"
       position: System Administrator in the Provincial Council
       activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring network, writing technical documentation
       technologies: Windows Server, Linux, Zabbix, HDA (ticketing system), Iride, Libra
