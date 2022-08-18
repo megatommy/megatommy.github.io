@@ -52,11 +52,11 @@ work:
       place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> / <b><a href='https://www.insupport.it/' target='_blank'>InSupport</a></b> Forlì, Italia"
       position: Tecnico Informatico presso l'Amministrazione Provinciale di Forlì-Cesena
       activities: Configurazione server, risoluzione di problemi in remoto e sul posto, controllo di qualità di hardware, reinstallazione di sistemi operativi, scrivere documentazione tecnica e manuali per utenti
-      technologies: Windows AD, Linux, ticketing system, Zabbix, Iride, Libra
+      technologies: Windows AD, Linux, HDA (ticketing system), Netwrix, Iride, Libra
     - time: Gen. 2019 - Mag. 2019
       place: <b><a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a></b> (Apprendistato), Forlì, Italia
       position: Network Operations Center (NOC) Specialist
-      activities: "Gestione e risoluzione di chiamate su computer e macchine virtuali, <b>sviluppato una dashboard</b> che consente all'azienda di monitorare i propri clienti in modo più preciso ed efficiente."
+      activities: "Gestione e risoluzione di chiamate su computer e VM, <b>sviluppato le fondamenta di <a href='https://globaldash.it/en-index.html' target='_blank'>Globaldash</a></b>: una SaaS che consente ad aziende di monitorare i propri clienti in modo più preciso ed efficiente."
       technologies: Windows AD, Kaseya Suite, Office365, Auvik, VMWare, SGBox, Laravel
     - time: Gen. 2018 - Lug. 2018
       place: <b><a href='https://www.sitel.com/' target='_blank'>Sitel</a></b> / <b><a href='https://www.lexmark.com/' target='_blank'>Lexmark</a></b>, Lisbona, Portogallo

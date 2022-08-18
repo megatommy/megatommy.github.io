@@ -52,7 +52,7 @@ work:
       place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> / <b><a href='https://www.insupport.it/' target='_blank'>InSupport</a></b> Forlì, Italy"
       position: System Administrator in the Provincial Council
       activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring network, writing technical documentation
-      technologies: Windows Server, Linux, Zabbix, HDA (ticketing system), Iride, Libra
+      technologies: Windows Server, Linux, Netwrix, HDA (ticketing system), Iride, Libra
     - time: Jan. 2019 - May 2019
       place: <b><a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a></b> (Apprenticeship), Forlì, Italy
       position: Network Operations Center (NOC) Specialist
