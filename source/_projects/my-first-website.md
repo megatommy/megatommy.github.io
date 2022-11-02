@@ -4,6 +4,7 @@ section: projectContent
 title: My first website
 categories: projects
 image: /assets/img/projects/first-website.png
+image_alt: "Showing off my krazy HTML skills of back then, when I started programming"
 subtitle: "Built using HTML, JS, CSS"
 display: "school"
 weight: 83

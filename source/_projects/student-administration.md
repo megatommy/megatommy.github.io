@@ -4,6 +4,7 @@ section: projectContent
 title: Student Administration
 categories: projects
 image: /assets/img/projects/student-administration.png
+image_alt: "A screenshot of the list of students of the application"
 subtitle: "Built using Slim framework and Semantic UI"
 display: "work"
 weight: 96

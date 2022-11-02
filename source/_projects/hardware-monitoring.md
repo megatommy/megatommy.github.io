@@ -4,6 +4,7 @@ section: projectContent
 title: Hardware monitoring
 categories: projects
 image: /assets/img/projects/hardware-monitoring.png
+image_alt: "A screenshot of how the hardware monitoring application looks like"
 display: "work"
 weight: 98
 ---

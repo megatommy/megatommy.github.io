@@ -4,6 +4,7 @@ section: projectContent
 title: Altroshop
 categories: projects
 image: /assets/img/projects/altroshop.png
+image_alt: "A screenshot of how Altroshop looks like"
 subtitle: "Built using Prestashop"
 display: "work"
 weight: 98

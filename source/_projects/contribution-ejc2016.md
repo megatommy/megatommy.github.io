@@ -4,6 +4,7 @@ section: projectContent
 title: Contribution EJC2016
 categories: projects
 image: /assets/img/projects/ejc2016.png
+image_alt: "The logo of the EJC206"
 subtitle: "Rewritten from static template to WordPress theme"
 display: "work"
 weight: 99

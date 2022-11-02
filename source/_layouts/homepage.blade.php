@@ -12,7 +12,7 @@
         </div>
         <div class="col-sm-4">
              <div class="photo">
-                <img class="img-border rounded" src="/assets/img/Thomas.png" alt="Picture of me!">
+                <img class="img-border rounded" src="/assets/img/thomas-de-luca.png" alt="Picture of me!">
             </div>
         </div>
     </div>
@@ -24,7 +24,7 @@
 
     <div class="row gx-5 gy-3">
         <div class="col-sm-4">
-            <img src="/assets/img/webapps.png" />
+            <img src="/assets/img/webapps.png" alt="A picture made in Excalidraw depicting a typical webapplication with various charts and a menu on the left." />
         </div>
         <div class="col-sm-8">
             <h3>Webapplications</h3>
@@ -37,7 +37,7 @@
     <hr class="my-5">
     <div class="row gx-5 gy-3">
         <div class="col-sm-4 order-sm-last">
-            <img src="/assets/img/websites.png" />
+            <img src="/assets/img/websites.png" alt="A picture made in Excalidraw depicting a website template with a hero image and text, and under there 3 sections" />
         </div>
         <div class="col-sm-8 order-sm-first">
             <h3>Websites</h3>
@@ -47,7 +47,7 @@
     <hr class="my-5">
     <div class="row gx-5 gy-3">
         <div class="col-sm-4">
-            <img src="/assets/img/training.png" />
+            <img src="/assets/img/training.png" alt="A picture made in Excalidraw showing a person pointing to a whiteboard, with some computer components on it." />
         </div>
         <div class="col-sm-8">
             <h3>Training</h3>

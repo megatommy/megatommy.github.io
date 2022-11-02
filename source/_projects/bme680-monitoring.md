@@ -4,6 +4,7 @@ section: projectContent
 title: BME680 Monitoring
 categories: projects
 image: /assets/img/projects/bme680-monitoring.png
+image_alt: "A screenshot of the Grafana dashboard showing graphs of the sensors"
 subtitle: "Built using BME680 sensor, Raspberry Pi, Grafana"
 display: "experiment"
 weight: 96

@@ -4,6 +4,7 @@ section: projectContent
 title: Radiofav
 categories: projects
 image: /assets/img/projects/radiofav.png
+image_alt: "The logo of Radiofav"
 subtitle: "Built using Laravel, HTML, CSS, JS, Bootstrap"
 display: "experiment"
 weight: 94

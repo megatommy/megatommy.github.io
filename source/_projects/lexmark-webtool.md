@@ -4,6 +4,7 @@ section: projectContent
 title: Lexmark WebTool
 categories: projects
 image: /assets/img/projects/lexmark-webtool.png
+image_alt: "A screenshot of the Lexmark WebTool showing a page of a printer with its specs"
 subtitle: "Built using Hugo and Bulma"
 display: "experiment"
 weight: 97

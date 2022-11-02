@@ -4,6 +4,7 @@ section: projectContent
 title: "Info: The gathering"
 categories: projects
 image: /assets/img/projects/mtg.png
+image_alt: "A screenshot of Info: the Gathering"
 subtitle: "Built using HTML, Bootstrap, jQuery, PHP"
 display: "school"
 weight: 87

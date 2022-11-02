@@ -4,6 +4,7 @@ section: projectContent
 title: Kara TApp
 categories: projects
 image: /assets/img/projects/kara-tapp.png
+image_alt: "A screenshot of Kara TApp, showing the main menu"
 subtitle: "Built using Grav and Ratchet"
 display: "experiment"
 weight: 95

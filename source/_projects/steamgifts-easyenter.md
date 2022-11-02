@@ -4,6 +4,7 @@ section: projectContent
 title: SteamGifts EasyEnter
 categories: projects
 image: /assets/img/projects/steamgifts.png
+image_alt: "the popup of the SteamGifts chrome extension, showing how many open SteamGifts tabs it found"
 subtitle: "Built using HTML, JS, Google JavaScript API's"
 display: "experiment"
 weight: 86

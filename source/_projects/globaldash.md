@@ -4,6 +4,7 @@ section: projectContent
 title: Globaldash
 categories: projects
 image: /assets/img/projects/globaldash.png
+image_alt: "The logo of Globaldash"
 display: "work"
 weight: 99
 ---
