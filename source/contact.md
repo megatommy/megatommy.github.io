@@ -4,10 +4,17 @@ section: content
 title: Contact
 ---
 
-<ul class="social-links">
-  <li><i class="fa fa-file-text-o fa-lg fa-fw"></i> My <a href="/Thomas_de_Luca_CV.pdf" target="_blank">Curriculum Vitae</a>, if you want to see my accomplishments. (Disponibile anche <a href="/Thomas_de_Luca_CV-IT.pdf" target="_blank">in Italiano</a>)</li>
-  <li><i class="fa fa-envelope fa-lg fa-fw"></i> thomas.de.luca[at]hotmail[dot]com, for compliments and/or questions.</li>
-  <li><i class="fa fa-facebook fa-lg fa-fw"></i> <a href="https://www.facebook.com/megatommy" target="_blank">Thomas de Luca</a>, if you are my pal.</li>
-  <li><i class="fa fa-github fa-lg fa-fw"></i> <a href="https://github.com/megatommy" target="_blank">megatommy</a>, if you like to see my code.</li>
-  <li><i class="fa fa-gamepad fa-lg fa-fw"></i> <a href="https://euw.op.gg/summoner/userName=megatommy" target="_blank">Megatommy</a>, if you want to duo-Q.</li>
-</ul>
+# Contact
+
+I prefer being contacted my email. Send me one and I'll get back to you as soon as I can!
+
+Otherwise check out my resumé, my code or my online presence.
+
+<div class="contact-page row">
+    <div class="col-sm-6"><p><i class="fa fa-lg fa-envelope fa-fw"></i> <a href="mailto:thomas.de.luca@hotmail.com">thomas.de.luca@hotmail.com</a></p></div>
+    <div class="col-sm-6"><p><i class="fa fa-lg fa-github fa-fw"></i> <a href="https://github.com/megatommy" target="_blank">Megatommy</a></p></div>
+    <div class="col-sm-6"><p><i class="fa fa-lg fa-file-pdf-o fa-fw"></i> <a href="/Thomas_de_Luca_CV.pdf" target="_blank">English resumé</a></p></div>
+    <div class="col-sm-6"><p><i class="fa fa-lg fa-file-pdf-o fa-fw"></i> <a href="/Thomas_de_Luca_CV-IT.pdf" target="_blank">Curriculum Italiano</a></p></div>
+    <div class="col-sm-6"><p><i class="fa fa-lg fa-linkedin fa-fw"></i> <a href="https://www.linkedin.com/in/thomas-de-luca-b093099a/" target="_blank">Thomas de Luca</a></p></div>
+    <div class="col-sm-6"><p><i class="fa fa-lg fa-facebook fa-fw"></i> <a href="https://www.facebook.com/megatommy" target="_blank">Thomas de Luca</a></p></div>
+</div>

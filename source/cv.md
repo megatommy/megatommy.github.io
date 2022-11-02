@@ -43,33 +43,33 @@ work:
   label: Work experience
   sublabel: References available upon request. Visit <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> for various projects I made.
   entries:
-    - time: Feb. 2021 - Present
-      place: "<b><a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a></b>, Remote"
-      position: Tutor for an intensive web development course
-      activities: Helping students of the course with their questions and doubts regarding programming languages, preparing and giving recaps, verifying the homework done by the students
-      technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Oct. 2018 - Present
-      place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> / <b><a href='https://www.insupport.it/' target='_blank'>InSupport</a></b> Forlì, Italy"
+      place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
       position: System Administrator in the Provincial Council
       activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring network, writing technical documentation
       technologies: Windows Server, Linux, Netwrix, HDA (ticketing system), Iride, Libra
+    - time: Feb. 2021 - Apr. 2022
+      place: "<a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a>"
+      position: Coding Coach / Tutor
+      activities: Helping students of the course with their questions and doubts regarding programming languages, preparing and giving recaps, verifying the homework done by the students
+      technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Jan. 2019 - May 2019
-      place: <b><a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a></b> (Apprenticeship), Forlì, Italy
+      place: <a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a>
       position: Network Operations Center (NOC) Specialist
-      activities: "Managing and troubleshooting computers remotely, managing and troubleshooting virtual machines, <b>developed the foundations of <a href='https://globaldash.it/en-index.html' target='_blank'>Globaldash</a></b>: a SaaS that enables companies to monitor their clients' infrastructure more accurately and efficiently"
+      activities: "Managing and troubleshooting computers remotely, managing and troubleshooting virtual machines, developed the foundations of <a href='https://globaldash.it/en-index.html' target='_blank'>Globaldash</a>: a SaaS that enables companies to monitor their clients' infrastructure more accurately and efficiently"
       technologies: Windows AD, Kaseya Suite, Office365, Auvik, Laravel
     - time: Jan. 2018 - Jul. 2018
-      place: <b><a href='https://www.sitel.com/' target='_blank'>Sitel</a></b> / <b><a href='https://www.lexmark.com/' target='_blank'>Lexmark</a></b>, Lisbon, Portugal
-      position: Technical Customer Support Agent
-      activities: Troubleshooting customers' Lexmark printer issues, <b><a href="https://thomasdeluca.nl/portfolio/lexmark-webtool" target="_blank">developed an internal application</a></b> to look up information faster thus decreasing the time needed to help customers.
+      place: <a href='https://www.sitel.com/' target='_blank'>Sitel</a> 
+      position: Technical Customer Support Agent for Lexmark
+      activities: Troubleshooting customers' Lexmark printer issues, <a href="https://thomasdeluca.nl/portfolio/lexmark-webtool" target="_blank">developed an internal application</a> to look up information faster thus decreasing the time needed to help customers.
       technologies: Siebel, Boldchat, LogMeIn, internal app written with Hugo and Python.
     - time: Mar. 2017 - Sep. 2017<br>Jul. 2018 - Aug. 2018
-      place: <b><a href='http://www.movementontheground.com/' target='_blank'>Movement on the Ground</a></b>, Refugee camps on Lesbos, Greece
-      position: Volunteer, IT technician
+      place: <a href='http://www.movementontheground.com/' target='_blank'>Movement on the Ground</a>
+      position: IT technician (volunteer)
       activities: Kids' activities, cooking, helping with solar panels and electricity, maintaining the website, fixing computers, improving WiFi connectivity
       technologies: Cambium, Ubiquity, RouterOS, Linux, WordPress, Grav CMS
     - time: Nov. 2014 - Jul. 2015<br>Feb. 2016 - Aug. 2016
-      place: <b><a href='http://www.virtuagym.com/' target='_blank'>Virtuagym</a></b>, Amsterdam, Netherlands
+      place: <a href='http://www.virtuagym.com/' target='_blank'>Virtuagym</a>
       position: Software developer
       activities: Developing new features, fixing bugs, developing the API
       technologies: PHP, MySQL, JS/jQuery, HTML, CSS/Bootstrap, Laravel
@@ -78,18 +78,18 @@ internships:
   label: Curricular internships
   entries:
     - time: Feb. 2014 - Jun. 2014
-      place: <b><a href='http://www.knowhowww.nl/' target='_blank'>KnowHowww</a></b>, Amsterdam, Netherlands
-      position: Intern, WordPress developer, UX Designer
+      place: <a href='http://www.knowhowww.nl/' target='_blank'>KnowHowww</a>, Netherlands
+      position: WordPress developer
       activities: Made my graduation assignment, Developing features for clients' websites
       technologies: WordPress, JS, HTML, CSS
     - time: Nov. 2013 - Jan. 2014
-      place: <b><a href='http://www.ictindewolken.nl/' target='_blank'>ICT in de wolken</a></b>, Amsterdam, Netherlands
+      place: <a href='http://www.ictindewolken.nl/' target='_blank'>ICT in de wolken</a>, Netherlands
       position: Teacher assistant
       activities: Helping students learning how to code
       technologies: Scratch, Java
     - time: Sep. 2012 - Feb. 2013
-      place: <b><a href='http://gen25.com/' target='_blank'>Gen25</a></b>, Amsterdam, Netherlands
-      position: Intern, Developer
+      place: <a href='http://gen25.com/' target='_blank'>Gen25</a>, Netherlands
+      position: Developer
       activities: Changing content on websites, developing new modules for the CMS, evaluating the CMS from an UX point of view
       technologies: Gen25 CMS, PHP, JS, HTML, CSS
 

@@ -54,7 +54,7 @@
                 .no-print, .no-print * { display: none !important; }
                 .only-print { display: block !important; }
                 .page-break { display: block; page-break-before: always; }
-                .privacy {display: block; position: fixed; bottom:0; font-size: .8rem;}
+                .privacy {display: block; position: fixed; bottom: 0; font-size: .8rem;}
         </style>
     </head>
     <body>
@@ -113,8 +113,7 @@
             <tr>
                 <td>{!! $entry->time !!}</td>
                 <td class="paddingBot">
-                    {!! $entry->place !!}
-                    <br /><b>{!! $page->tr_position !!}:</b> {!! $entry->position !!}
+                    <b>{!! $entry->position !!}</b> | {!! $entry->place !!}
                     <br /><b>{!! $page->tr_activities !!}:</b> {!! $entry->activities !!}
                     <br /><b>{!! $page->tr_technologies_used !!}:</b> {!! $entry->technologies !!}
                 </td>
@@ -128,8 +127,7 @@
             <tr>
                 <td>{!! $entry->time !!}</td>
                 <td class="paddingBot">
-                    {!! $entry->place !!}
-                    <br /><b>{!! $page->tr_position !!}:</b> {!! $entry->position !!}
+                    <b>{!! $entry->position !!}</b> | {!! $entry->place !!}
                     <br /><b>{!! $page->tr_activities !!}:</b> {!! $entry->activities !!}
                     <br /><b>{!! $page->tr_technologies_used !!}:</b> {!! $entry->technologies !!}
                 </td>
@@ -145,7 +143,6 @@
                 <td>{!! $entry->time !!}</td>
                 <td class="paddingBot">
                     {!! $entry->place !!}
-                    <br /><b>{!! $page->tr_position !!}:</b> {!! $entry->position !!}
                     <br /><b>{!! $page->tr_activities !!}:</b> {!! $entry->activities !!}
                 </td>
             </tr>

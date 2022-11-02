@@ -14,6 +14,4 @@ After a while T-Consulting started to offer this service to some of their client
 
 Right now Globaldash is a SaaS with a lot more functionalities than when I started programming it. It has all kinds of integrations with other services and offers role management for their users.
 
-I'm not the lead developer anymore, but I still do get called from time to time to work on it.
-
 Interested in what Globaldash has to offer today? <a href="https://globaldash.it/en-index.html" target="_blank">Check it out!</a>

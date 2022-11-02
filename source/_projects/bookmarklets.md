@@ -2,7 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: Bookmarklets
-categories: projects
+categories: projects-old
 image: /assets/img/projects/bookmarklets.png
 subtitle: "All built using JavaScript"
 display: "experiment"

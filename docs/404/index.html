@@ -15,40 +15,41 @@
     <title>Page not found (404) - Thomas de Luca</title>
 	
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href='//fonts.googleapis.com/css?family=Raleway:500,600' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Albert+Sans" rel="stylesheet" type="text/css">
 	<link rel="shortcut icon" href="/assets/img/favicon.ico">
-    <link href="/assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-grid.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-utilities.min.css" rel="stylesheet"/>
     <link href="/assets/css/style.css" rel="stylesheet"/>
 </head>
     <body>
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-xs-12">
-                    <h1 class="title"><a href="/">Thomas de Luca</a></h1>
-                </div>
 
-                <div class="col-xs-12">
-    <nav id="menu">
-    	<label for="menu_active" class="menu-mobile">Menu</label>
-        <input type="checkbox" id="menu_active" style="display: none;" />
-        <ul>
-            <li ><a href="/">About me</a></li>
-            <li ><a href="/portfolio">Portfolio</a></li>
-            <li ><a href="/hobbies">Hobbies</a></li>
-            <li ><a href="/contact">Contact</a></li>
+            <nav id="menu" class="my-3">
+    	<label for="menu_active" class="menu-mobile d-block d-md-none p-3 text-center">Menu</label>
+        <input type="checkbox" id="menu_active" class="d-none" />
+        <ul class="list-unstyled">
+            <li class=" d-block d-md-inline-block">
+                <a href="/" class="me-md-3 d-block d-md-inline-block text-center p-3">About me</a>
+            </li>
+            <li class=" d-block d-md-inline-block">
+                <a href="/portfolio" class="me-md-3 d-block d-md-inline-block text-center p-3">Portfolio</a>
+            </li>
+            <li class="d-block d-md-inline-block">
+                <a href="/Thomas_de_Luca_CV.pdf" class="d-block d-md-inline-block text-center p-3">Resumé</a>
+            </li>
+            <li class=" d-block d-md-inline-block">
+                <a href="/contact" class="me-md-3 d-block d-md-inline-block text-center p-3">Contact</a>
+            </li>
         </ul>
     </nav>
-</div>
-                <div class="col-xs-12">
-                    <div class="page">
-                        <h1 class="page-title">Page not found (404)</h1>
-                                                <div class="page-content">
-                            <p>Sorry, this page does not exist (404).</p>
-                        </div>
+            <!-- <div class="row"> -->
+                <!-- <div class="col-sm-12"> -->
+                    <div class="page-content px-3">
+                        <p>Sorry, this page does not exist (404).</p>
                     </div>
-                </div>
+                <!-- </div> -->
 
-            </div>
+            <!-- </div> -->
         </div>
     </body>
 </html>

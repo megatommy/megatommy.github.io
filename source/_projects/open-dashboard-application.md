@@ -2,7 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: Open Dashboard Application
-categories: projects
+categories: projects-old
 image: /assets/img/projects/oda.png
 subtitle: "Built using HTML, CSS, JS"
 display: "experiment"

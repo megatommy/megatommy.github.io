@@ -4,18 +4,30 @@
 
 @yield('portfolioContent')
 
-<h2 class="project-header">Work related</h2>
-<div class="row">
-	@include('_partials.projects-forloop', ['display' => 'work'])
+<h2 class="mt-5 mb-3">Work related</h2>
+<div class="row g-5">
+    @foreach($projects as $project)
+        @if($project->display == 'work')
+            @include('_partials.project-single')
+        @endif
+    @endforeach
 </div>
 
-<h2 class="project-header">Experiments</h2>
-<div class="row">
-	@include('_partials.projects-forloop', ['display' => 'experiment'])
+<h2 class="mt-5 mb-3">Experiments</h2>
+<div class="row g-5">
+	@foreach($projects as $project)
+        @if($project->display == 'experiment')
+            @include('_partials.project-single')
+        @endif
+    @endforeach
 </div>
 
-<h2 class="project-header">School assignments</h2>
-<div class="row">
-	@include('_partials.projects-forloop', ['display' => 'school'])
+<h2 class="mt-5 mb-3">School assignments</h2>
+<div class="row g-5">
+	@foreach($projects as $project)
+        @if($project->display == 'school')
+            @include('_partials.project-single')
+        @endif
+    @endforeach
 </div>
 @endsection

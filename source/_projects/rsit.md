@@ -2,7 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: RuneScape Item Tracker
-categories: projects
+categories: projects-old
 image: /assets/img/projects/rsit.png
 subtitle: "Built using HTML, Bootstrap, jQuery, PHP, RuneScape API"
 display: "experiment"

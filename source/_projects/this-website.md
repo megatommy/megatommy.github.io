@@ -2,7 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: This website
-categories: projects
+categories: projects-old
 image: /assets/img/projects/this-website.png
 subtitle: "Built using HTML, CSS, JS, Github Pages, Jekyll"
 display: "experiment"

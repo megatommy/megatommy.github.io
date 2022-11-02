@@ -15,39 +15,40 @@
     <title>Kara TApp - Thomas de Luca</title>
 	
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href='//fonts.googleapis.com/css?family=Raleway:500,600' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Albert+Sans" rel="stylesheet" type="text/css">
 	<link rel="shortcut icon" href="/assets/img/favicon.ico">
-    <link href="/assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-grid.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-utilities.min.css" rel="stylesheet"/>
     <link href="/assets/css/style.css" rel="stylesheet"/>
 </head>
     <body>
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-xs-12">
-                    <h1 class="title"><a href="/">Thomas de Luca</a></h1>
-                </div>
 
-                <div class="col-xs-12">
-    <nav id="menu">
-    	<label for="menu_active" class="menu-mobile">Menu</label>
-        <input type="checkbox" id="menu_active" style="display: none;" />
-        <ul>
-            <li ><a href="/">About me</a></li>
-            <li class="selected"><a href="/portfolio">Portfolio</a></li>
-            <li ><a href="/hobbies">Hobbies</a></li>
-            <li ><a href="/contact">Contact</a></li>
+            <nav id="menu" class="my-3">
+    	<label for="menu_active" class="menu-mobile d-block d-md-none p-3 text-center">Menu</label>
+        <input type="checkbox" id="menu_active" class="d-none" />
+        <ul class="list-unstyled">
+            <li class=" d-block d-md-inline-block">
+                <a href="/" class="me-md-3 d-block d-md-inline-block text-center p-3">About me</a>
+            </li>
+            <li class=" fw-bold  d-block d-md-inline-block">
+                <a href="/portfolio" class="me-md-3 d-block d-md-inline-block text-center p-3">Portfolio</a>
+            </li>
+            <li class="d-block d-md-inline-block">
+                <a href="/Thomas_de_Luca_CV.pdf" class="d-block d-md-inline-block text-center p-3">Resumé</a>
+            </li>
+            <li class=" d-block d-md-inline-block">
+                <a href="/contact" class="me-md-3 d-block d-md-inline-block text-center p-3">Contact</a>
+            </li>
         </ul>
     </nav>
-</div>
-                <div class="col-xs-12">
-                    <div class="page">
-                        <h1 class="page-title">Kara TApp</h1>
-                        <h3 class="page-subtitle">Built using Grav and Ratchet</h3>                        <div class="page-content">
-                            <div class="row">
-    <div class="col-sm-4 col-sm-push-8">
-        <img src="/assets/img/projects/kara-tapp.png" class="showcase-img" />
-    </div>
-    <div class="col-sm-8 col-sm-pull-4">
+            <!-- <div class="row"> -->
+                <!-- <div class="col-sm-12"> -->
+                    <div class="page-content px-3">
+                        <h1>Kara TApp</h1>
+<h2 class="fs-5">Built using Grav and Ratchet</h2>        <div class="text-center my-4">
+            <img class="rounded img-border" src="/assets/img/projects/kara-tapp.png" />
+        </div>
         <p>In 2017 I volunteered on Lesvos (Greece) for six months in a refugee camp called "Kara Tepe". Kara Tepe is a refugee camp where mostly families reside. The NGO where I volunteered with is called "Movement on the Ground". This organization helps a lot around the camp by organizing children activities, sorting and destributing donated clothes, provide refugees electricity using solar power, and much more.</p>
 
 <p>While volunteering I noticed the communication between the camp and the refugees could be improved. Since almost all the refugees own a smartphone, I thought making an app would greatly increase the communication. With this in mind the Kara TApp was born.</p>
@@ -55,13 +56,10 @@
 <p>Kara TApp allows the camp management to post useful information, activities and announcements on the app, so refugees have access to this information from a central point. The goal of Kara TApp is not to replace the current way of communicating, but to have all the information in one place.</p>
 
 <p>Kara TApp is built using <a href="https://getgrav.org/" target="_blank">Grav</a> as a CMS. Grav is user friendly for people without a lot of technical knowlegde, and is easily extensible for developers. The Kara TApp is essentially a Grav theme. I've built the theme using the <a href="http://goratchet.com/" target="_blank">Ratchet</a> library. It's a library like Bootstrap (and maintained by the Bootstrap team) and is optimized for prototype mobile apps.</p>
-    </div>
-</div>
-                        </div>
                     </div>
-                </div>
+                <!-- </div> -->
 
-            </div>
+            <!-- </div> -->
         </div>
     </body>
 </html>

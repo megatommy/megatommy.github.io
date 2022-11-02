@@ -2,7 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: New tab dashboard
-categories: projects
+categories: projects-old
 image: /assets/img/projects/ntd.png
 subtitle: "Built using HTML, Bootstrap, jQuery"
 display: "experiment"

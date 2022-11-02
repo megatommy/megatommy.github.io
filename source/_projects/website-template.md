@@ -2,7 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: Website template
-categories: projects
+categories: projects-old
 image: /assets/img/projects/template.png
 subtitle: "Built using HTML, Bootstrap, jQuery"
 display: "experiment"

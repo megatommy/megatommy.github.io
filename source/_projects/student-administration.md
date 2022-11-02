@@ -17,4 +17,4 @@ The image below shows the type of data that can be inserted for each student.
 
 The data in the pictures have been faked for privacy reasons.
 
-<img src="/assets/img/projects/student-administration-full.png" style="width: 70%;" alt="">
+<img src="/assets/img/projects/student-administration-full.png" class="rounded img-border" alt="">

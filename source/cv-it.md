@@ -43,33 +43,33 @@ work:
   label: Esperienza lavorativa
   sublabel: Riferimenti disponibili su richiesta. Visita <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> per vedere vari progetti fatti da me.
   entries:
-    - time: Feb. 2021 - Presente
-      place: "<b><a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a></b>, Remoto"
-      position: Tutor per corso intensivo di sviluppo web
-      activities: Aiutare gli studenti del corso rispondendo alle loro domande e i loro dubbi su i linguaggi di programmazione, preparare e dare dei recap, controllare i compiti fatti dagli studenti
-      technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Ott. 2018 - Presente
-      place: "<b><a href='https://www.centrocomputer.it/' target='_blank'>Centro Computer</a></b> / <b><a href='https://www.insupport.it/' target='_blank'>InSupport</a></b> Forlì, Italia"
+      place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
       position: Tecnico Informatico presso l'Amministrazione Provinciale di Forlì-Cesena
       activities: Configurazione server, risoluzione di problemi in remoto e sul posto, controllo di qualità di hardware, reinstallazione di sistemi operativi, scrivere documentazione tecnica e manuali per utenti
       technologies: Windows AD, Linux, HDA (ticketing system), Netwrix, Iride, Libra
+    - time: Feb. 2021 - Apr. 2022
+      place: "<a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a>"
+      position: Coding coach / Tutor
+      activities: Aiutare gli studenti del corso rispondendo alle loro domande e i loro dubbi su i linguaggi di programmazione, preparare e dare dei recap, controllare i compiti fatti dagli studenti
+      technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Gen. 2019 - Mag. 2019
-      place: <b><a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a></b> (Apprendistato), Forlì, Italia
+      place: <a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a>
       position: Network Operations Center (NOC) Specialist
-      activities: "Gestione e risoluzione di chiamate su computer e VM, <b>sviluppato le fondamenta di <a href='https://globaldash.it/en-index.html' target='_blank'>Globaldash</a></b>: una SaaS che consente ad aziende di monitorare i propri clienti in modo più preciso ed efficiente."
+      activities: "Gestione e risoluzione di chiamate su computer e VM, sviluppato le fondamenta di <a href='https://globaldash.it/en-index.html' target='_blank'>Globaldash</a>: una SaaS che consente ad aziende di monitorare i propri clienti in modo più preciso ed efficiente."
       technologies: Windows AD, Kaseya Suite, Office365, Auvik, VMWare, SGBox, Laravel
     - time: Gen. 2018 - Lug. 2018
-      place: <b><a href='https://www.sitel.com/' target='_blank'>Sitel</a></b> / <b><a href='https://www.lexmark.com/' target='_blank'>Lexmark</a></b>, Lisbona, Portogallo
-      position: Agente di assistenza tecnica clienti
-      activities: Risoluzione di problemi di stampanti per clienti, <b><a href="https://thomasdeluca.nl/portfolio/lexmark-webtool" target="_blank">sviluppato applicazione interna</a></b> per cercare le informazioni più velocemente riducendo così il tempo necessario per aiutare i clienti.
+      place: <a href='https://www.sitel.com/' target='_blank'>Sitel</a>
+      position: Agente di assistenza tecnica clienti per Lexmark
+      activities: Risoluzione di problemi di stampanti per clienti, <a href="https://thomasdeluca.nl/portfolio/lexmark-webtool" target="_blank">sviluppato applicazione interna</a> per cercare le informazioni più velocemente riducendo così il tempo necessario per aiutare i clienti.
       technologies: "Siebel, Boldchat, LogMeIn, applicazione interna: Hugo e Python."
     - time: Mar. 2017 - Set. 2017<br />Lug. 2018 - Ago. 2018
-      place: <b><a href='http://www.movementontheground.com/' target='_blank'>Movement on the Ground</a></b>, Campo di rifugiati a Lesbos, Grecia
-      position: Volontario, Tecnico informatico
+      place: <a href='http://www.movementontheground.com/' target='_blank'>Movement on the Ground</a>
+      position: Tecnico informatico (volontario)
       activities: Dare lezioni d'Inglese e di Informatica, cucinare, aiutare con pannelli solari e elettricità, gestione del sito web, riparazione computer, migliorare la connettività del WiFi
       technologies: Cambium, Ubiquity, RouterOS, Linux, WordPress, Grav CMS
     - time: Nov. 2014 - Lug. 2015<br />Feb. 2016 - Ago. 2016
-      place: <b><a href='http://www.virtuagym.com/' target='_blank'>Virtuagym</a></b>, Amsterdam, Paesi Bassi
+      place: <a href='http://www.virtuagym.com/' target='_blank'>Virtuagym</a>
       position: Sviluppatore software
       activities: Sviluppare nuove funzionalità, risolvere bug, sviluppare l'API
       technologies: PHP, MySQL, JS/jQuery, HTML, CSS/Bootstrap, Laravel
@@ -78,17 +78,17 @@ internships:
   label: Tirocini curriculari
   entries:
     - time: Feb. 2014 - Giu. 2014
-      place: <b><a href='http://www.knowhowww.nl/' target='_blank'>KnowHowww</a></b>, Amsterdam, Paesi Bassi
-      position: Sviluppatore WordPress, Designer di User Experience
+      place: <a href='http://www.knowhowww.nl/' target='_blank'>KnowHowww</a>, Paesi Bassi
+      position: Sviluppatore WordPress
       activities: Gestione e sviluppo di siti di clienti
       technologies: WordPress, JS, HTML, CSS
     - time: Nov. 2013 - Gen. 2014
-      place: <b><a href='http://www.ictindewolken.nl/' target='_blank'>ICT in de wolken</a></b>, Amsterdam, Paesi Bassi
-      position: Assisente del docente
+      place: <a href='http://www.ictindewolken.nl/' target='_blank'>ICT in de wolken</a>, Paesi Bassi
+      position: Assistente docente
       activities: Insegnare alunni come sviluppare software
       technologies: Scratch, Java
     - time: Set. 2012 - Feb. 2013
-      place: <b><a href='http://gen25.com/' target='_blank'>Gen25</a></b>, Amsterdam, Paesi Bassi
+      place: <a href='http://gen25.com/' target='_blank'>Gen25</a>, Paesi Bassi
       position: Sviluppatore software
       activities: Gestione dei siti dei clienti, sviluppo di plugin per il CMS, evaluare il CMS per usabilità.
       technologies: Gen25 CMS, PHP, JS, HTML, CSS

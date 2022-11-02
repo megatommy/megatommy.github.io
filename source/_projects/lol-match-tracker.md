@@ -2,7 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: League of Legends Match Tracker
-categories: projects
+categories: projects-old
 image: /assets/img/projects/lol.png
 subtitle: "Built using HTML, Bootstrap, jQuery, CodeIgniter, Web Scraping"
 display: "experiment"

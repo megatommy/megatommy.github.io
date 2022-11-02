@@ -12,7 +12,10 @@ return [
     'collections' => [
     	'projects' => [
     		'path' => 'portfolio/{-filename}',
-    		'sort' => ['-weight']
+    		'sort' => ['-weight'],
+            'filter' => function($item){
+                return $item->categories == 'projects';
+            }
     	]
     ],
 ];

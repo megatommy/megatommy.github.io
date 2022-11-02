@@ -5,7 +5,7 @@ title: Lexmark WebTool
 categories: projects
 image: /assets/img/projects/lexmark-webtool.png
 subtitle: "Built using Hugo and Bulma"
-display: "work"
+display: "experiment"
 weight: 97
 ---
 

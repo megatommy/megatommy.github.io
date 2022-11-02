@@ -2,7 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: AYS Bookmark
-categories: projects
+categories: projects-old
 image: /assets/img/projects/aysb.png
 subtitle: "Built using HTML, JS, CSS"
 display: "experiment"

@@ -15,39 +15,40 @@
     <title>BME680 Monitoring - Thomas de Luca</title>
 	
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href='//fonts.googleapis.com/css?family=Raleway:500,600' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Albert+Sans" rel="stylesheet" type="text/css">
 	<link rel="shortcut icon" href="/assets/img/favicon.ico">
-    <link href="/assets/css/bootstrap.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-grid.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-utilities.min.css" rel="stylesheet"/>
     <link href="/assets/css/style.css" rel="stylesheet"/>
 </head>
     <body>
         <div class="container-fluid">
-            <div class="row">
-                <div class="col-xs-12">
-                    <h1 class="title"><a href="/">Thomas de Luca</a></h1>
-                </div>
 
-                <div class="col-xs-12">
-    <nav id="menu">
-    	<label for="menu_active" class="menu-mobile">Menu</label>
-        <input type="checkbox" id="menu_active" style="display: none;" />
-        <ul>
-            <li ><a href="/">About me</a></li>
-            <li class="selected"><a href="/portfolio">Portfolio</a></li>
-            <li ><a href="/hobbies">Hobbies</a></li>
-            <li ><a href="/contact">Contact</a></li>
+            <nav id="menu" class="my-3">
+    	<label for="menu_active" class="menu-mobile d-block d-md-none p-3 text-center">Menu</label>
+        <input type="checkbox" id="menu_active" class="d-none" />
+        <ul class="list-unstyled">
+            <li class=" d-block d-md-inline-block">
+                <a href="/" class="me-md-3 d-block d-md-inline-block text-center p-3">About me</a>
+            </li>
+            <li class=" fw-bold  d-block d-md-inline-block">
+                <a href="/portfolio" class="me-md-3 d-block d-md-inline-block text-center p-3">Portfolio</a>
+            </li>
+            <li class="d-block d-md-inline-block">
+                <a href="/Thomas_de_Luca_CV.pdf" class="d-block d-md-inline-block text-center p-3">Resumé</a>
+            </li>
+            <li class=" d-block d-md-inline-block">
+                <a href="/contact" class="me-md-3 d-block d-md-inline-block text-center p-3">Contact</a>
+            </li>
         </ul>
     </nav>
-</div>
-                <div class="col-xs-12">
-                    <div class="page">
-                        <h1 class="page-title">BME680 Monitoring</h1>
-                        <h3 class="page-subtitle">Built using BME680 sensor, Raspberry Pi, Grafana</h3>                        <div class="page-content">
-                            <div class="row">
-    <div class="col-sm-4 col-sm-push-8">
-        <img src="/assets/img/projects/bme680-monitoring.png" class="showcase-img" />
-    </div>
-    <div class="col-sm-8 col-sm-pull-4">
+            <!-- <div class="row"> -->
+                <!-- <div class="col-sm-12"> -->
+                    <div class="page-content px-3">
+                        <h1>BME680 Monitoring</h1>
+<h2 class="fs-5">Built using BME680 sensor, Raspberry Pi, Grafana</h2>        <div class="text-center my-4">
+            <img class="rounded img-border" src="/assets/img/projects/bme680-monitoring.png" />
+        </div>
         <p>This project consisted of using a BME680 sensor to gather data from the environment using a Raspberry Pi, and visualizing the data through Grafana.</p>
 
 <p><a href="https://github.com/megatommy/bme680-collector">GitHub repository</a></p>
@@ -92,13 +93,10 @@
 <p>After the installation I configured Grafana to read the values from the created database.. and voilà!</p>
 
 <p>For more information and code used and created, please <a href="https://github.com/megatommy/bme680-collector">visit my repository on Github</a></p>
-    </div>
-</div>
-                        </div>
                     </div>
-                </div>
+                <!-- </div> -->
 
-            </div>
+            <!-- </div> -->
         </div>
     </body>
 </html>
