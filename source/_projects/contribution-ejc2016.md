@@ -2,6 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: Contribution EJC2016
+description: "The EJC2016 edition was held in Almere, and the comitee of that year asked me to turn a template into a WordPress theme."
 categories: projects
 image: /assets/img/projects/ejc2016.png
 image_alt: "The logo of the EJC206"

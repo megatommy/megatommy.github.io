@@ -2,6 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: My first website
+description: "My very first website ever made! It has nothing to do with the current web standards, but it is cute to display for others to see."
 categories: projects
 image: /assets/img/projects/first-website.png
 image_alt: "Showing off my krazy HTML skills of back then, when I started programming"

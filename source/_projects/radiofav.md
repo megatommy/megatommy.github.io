@@ -2,6 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: Radiofav
+description: "An application written in Laravel that makes you bookmark YouTube songs with the help of a bookmarklet."
 categories: projects
 image: /assets/img/projects/radiofav.png
 image_alt: "The logo of Radiofav"

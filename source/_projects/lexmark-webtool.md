@@ -2,6 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: Lexmark WebTool
+description: "A small webapplication written in Hugo showing important information for each printer Lexmark supports, all in one place."
 categories: projects
 image: /assets/img/projects/lexmark-webtool.png
 image_alt: "A screenshot of the Lexmark WebTool showing a page of a printer with its specs"

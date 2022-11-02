@@ -2,6 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: Raspberry Pi radiostations
+description: "An application written in ExpressJS which uses the Audioaddict API and gives you a list of radiostations, which you can select and play."
 categories: projects
 image: /assets/img/projects/rpi-radiostations.png
 image_alt: "The list of radiostations, with the play and stop button on the top"

@@ -2,7 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: Labor baby
-description: "Labor baby is a company that makes baby bottles. They asked me and my partner to create their website, because theirs was outdated and hard to change."
+description: "Labor baby is a company that makes baby bottles. Their new website is made with WordPress, which satisfies their requirements."
 categories: projects
 image: /assets/img/projects/laborbaby.png
 image_alt: "A laptop and a phone showing how the website of Labor baby looks like on those devices"

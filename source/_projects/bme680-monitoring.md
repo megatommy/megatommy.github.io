@@ -2,6 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: BME680 Monitoring
+description: "This project enables you to hook up the BME680 sensor to the Raspberry Pi, and see the measurements of the BME680 in a Grafana dashboard."
 categories: projects
 image: /assets/img/projects/bme680-monitoring.png
 image_alt: "A screenshot of the Grafana dashboard showing graphs of the sensors"

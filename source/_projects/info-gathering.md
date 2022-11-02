@@ -2,6 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: "Info: The gathering"
+description: "This school assignment shows two graphs for each set ever released. It also shows the release date of the set along with a brief description."
 categories: projects
 image: /assets/img/projects/mtg.png
 image_alt: "A screenshot of Info: the Gathering"

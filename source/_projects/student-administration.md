@@ -2,6 +2,7 @@
 extends: _layouts.image-right
 section: projectContent
 title: Student Administration
+description: "An application where my client can insert student info like the name, which classes it attended to and with how many hours he or she had completed."
 categories: projects
 image: /assets/img/projects/student-administration.png
 image_alt: "A screenshot of the list of students of the application"
