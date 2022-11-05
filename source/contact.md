@@ -2,6 +2,7 @@
 extends: _layouts.default
 section: content
 title: Contact
+description: "I prefer being contacted my email. Send me one and I'll get back to you as soon as I can! Otherwise check out my resumé, my code or my online presence."
 ---
 
 # Contact
