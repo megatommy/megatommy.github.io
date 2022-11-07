@@ -15,3 +15,5 @@
  *     // Your code here
  * });
  */
+
+$events->afterBuild(App\Listeners\GenerateSitemap::class);
