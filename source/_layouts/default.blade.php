@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     @include('_partials.head')
     <body>
         <div class="container-fluid">
