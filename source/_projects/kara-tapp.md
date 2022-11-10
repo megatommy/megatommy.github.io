@@ -1,12 +1,13 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: Kara TApp
+subtitle: "Built using Grav and Ratchet"
+keywords: "lesbos,greece,refugees,movement,ground,motg,karatepe"
 description: "The goal of Kara TApp is to improve the communication between the camp management and the refugees of the camp. The app is not in use right now."
 categories: projects
 image: /assets/img/projects/kara-tapp.png
 image_alt: "A screenshot of Kara TApp, showing the main menu"
-subtitle: "Built using Grav and Ratchet"
 display: "experiment"
 weight: 95
 ---

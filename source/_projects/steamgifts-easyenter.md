@@ -1,12 +1,13 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: SteamGifts EasyEnter
-description: "An Google Chrome extension which automatically makes you enter giveaways on SteamGifts.com."
+subtitle: "Built using HTML, JS, Google JavaScript API's"
+keywords: "chrome,extension,api,steamgifts"
+description: "A Google Chrome extension which automatically makes you enter giveaways on SteamGifts.com."
 categories: projects
 image: /assets/img/projects/steamgifts.png
 image_alt: "the popup of the SteamGifts chrome extension, showing how many open SteamGifts tabs it found"
-subtitle: "Built using HTML, JS, Google JavaScript API's"
 display: "experiment"
 weight: 86
 ---

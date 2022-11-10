@@ -1,12 +1,13 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: Radiofav
+subtitle: "Built using Laravel, HTML, CSS, JS, Bootstrap"
+keywords: "laravel,radiofav"
 description: "An application written in Laravel that makes you bookmark YouTube songs with the help of a bookmarklet."
 categories: projects
 image: /assets/img/projects/radiofav.png
 image_alt: "The logo of Radiofav"
-subtitle: "Built using Laravel, HTML, CSS, JS, Bootstrap"
 display: "experiment"
 weight: 94
 ---

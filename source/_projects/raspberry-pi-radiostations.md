@@ -1,12 +1,13 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: Raspberry Pi radiostations
+subtitle: "Built using HTML, CSS, JS, Audioaddict network API, Node (ExpressJS), Raspberry Pi"
+keywords: "raspberry,pi,audioaddict,api,bootstrap,nodejs"
 description: "An application written in ExpressJS which uses the Audioaddict API and gives you a list of radiostations, which you can select and play."
 categories: projects
 image: /assets/img/projects/rpi-radiostations.png
 image_alt: "The list of radiostations, with the play and stop button on the top"
-subtitle: "Built using HTML, CSS, JS, Audioaddict network API, Node (ExpressJS), Raspberry Pi"
 display: "experiment"
 weight: 91
 ---

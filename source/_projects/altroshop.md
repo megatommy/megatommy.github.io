@@ -1,12 +1,13 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: Altroshop
+subtitle: "Built using Prestashop"
+keywords: "ecommerce,prestashop"
 description: "Altroshop was the ecommerce of Equamente, a cooperative in Forlì which sells fair trade products. The ecommerce was made with Prestashop."
 categories: projects
 image: /assets/img/projects/altroshop.png
 image_alt: "A screenshot of how Altroshop looks like"
-subtitle: "Built using Prestashop"
 display: "work"
 weight: 98
 ---

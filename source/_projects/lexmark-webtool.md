@@ -1,12 +1,13 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: Lexmark WebTool
+subtitle: "Built using Hugo and Bulma"
+keywords: "lexmark,printers,webapplication,knowledge,base"
 description: "A small webapplication written in Hugo showing important information for each printer Lexmark supports, all in one place."
 categories: projects
 image: /assets/img/projects/lexmark-webtool.png
 image_alt: "A screenshot of the Lexmark WebTool showing a page of a printer with its specs"
-subtitle: "Built using Hugo and Bulma"
 display: "experiment"
 weight: 97
 ---

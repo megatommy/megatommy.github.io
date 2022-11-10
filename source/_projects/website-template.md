@@ -1,5 +1,5 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: Website template
 categories: projects-old

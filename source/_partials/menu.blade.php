@@ -9,7 +9,7 @@
                 <a href="/portfolio" class="me-md-3 d-block d-md-inline-block text-center p-3">Portfolio</a>
             </li>
             <li class="d-block d-md-inline-block">
-                <a href="/Thomas_de_Luca_CV.pdf" class="d-block d-md-inline-block text-center p-3">Resumé</a>
+                <a href="/Thomas_de_Luca_CV.pdf" class="me-md-3 d-block d-md-inline-block text-center p-3">Resumé</a>
             </li>
             <li class="@if($page->getUrl() == '/contact') fw-bold @endif d-block d-md-inline-block">
                 <a href="/contact" class="me-md-3 d-block d-md-inline-block text-center p-3">Contact</a>

@@ -1,5 +1,5 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: AYS Bookmark
 categories: projects-old

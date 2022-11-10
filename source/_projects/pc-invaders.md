@@ -1,12 +1,13 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: PC Invaders
+subtitle: "Built using HTML, Bootstrap, jQuery"
+keywords: "videogame,university,serious,games"
 description: "A game written in HTML and JS, where you control an anti virus and have to protect your computer from viruses. Made for university"
 categories: projects
 image: /assets/img/projects/pci.png
 image_alt: "A screenshot taken while playing the game, showing the gameplay of the game."
-subtitle: "Built using HTML, Bootstrap, jQuery"
 display: "school"
 weight: 88
 ---

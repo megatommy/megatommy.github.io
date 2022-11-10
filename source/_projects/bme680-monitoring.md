@@ -1,12 +1,13 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: BME680 Monitoring
+subtitle: "Built using BME680 sensor, Raspberry Pi, Grafana"
+keywords: "grafana,raspberry,pi,bme680,sensor,dashboard,pimoroni"
 description: "This project enables you to hook up the BME680 sensor to the Raspberry Pi, and see the measurements of the BME680 in a Grafana dashboard."
 categories: projects
 image: /assets/img/projects/bme680-monitoring.png
 image_alt: "A screenshot of the Grafana dashboard showing graphs of the sensors"
-subtitle: "Built using BME680 sensor, Raspberry Pi, Grafana"
 display: "experiment"
 weight: 96
 ---

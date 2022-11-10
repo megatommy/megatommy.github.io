@@ -1,7 +1,9 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: Globaldash
+subtitle: "Built using Laravel"
+keywords: "webapplication,laravel,saas,dashboard"
 description: "Globaldash is a SaaS that enables companies to monitor the infrastructure of their clients more accurately and efficiently"
 categories: projects
 image: /assets/img/projects/globaldash.png

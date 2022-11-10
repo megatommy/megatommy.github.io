@@ -1,14 +1,18 @@
-@extends('_layouts.default')
+---
+extends: _layouts.default
+title: Portfolio
+description: "Here you can find projects I made which have solved problems. They are categorized by type: work related, experiments or school assignments"
+---
 
-@section('content')
+# Portfolio
 
-@yield('portfolioContent')
+Here are some projects worked on since I started being interested in computers and webdevelopment.
 
 <h2 class="mt-5 mb-3">Work related</h2>
 <div class="row g-5">
     @foreach($projects as $project)
         @if($project->display == 'work')
-            @include('_partials.project-single')
+            @include('_partials.project-list-item')
         @endif
     @endforeach
 </div>
@@ -17,7 +21,7 @@
 <div class="row g-5">
 	@foreach($projects as $project)
         @if($project->display == 'experiment')
-            @include('_partials.project-single')
+            @include('_partials.project-list-item')
         @endif
     @endforeach
 </div>
@@ -26,8 +30,7 @@
 <div class="row g-5">
 	@foreach($projects as $project)
         @if($project->display == 'school')
-            @include('_partials.project-single')
+            @include('_partials.project-list-item')
         @endif
     @endforeach
 </div>
-@endsection

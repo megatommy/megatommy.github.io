@@ -1,7 +1,9 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: Hardware monitoring
+subtitle: "Built using c3.js"
+keywords: "webapplication,c3js,csv"
 description: "This application allows my client to monitor a machine, plotting a graph in real time with the measurements it makes."
 categories: projects
 image: /assets/img/projects/hardware-monitoring.png

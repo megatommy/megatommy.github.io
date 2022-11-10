@@ -1,7 +1,8 @@
 ---
-extends: _layouts.image-right
+extends: _layouts.project
 section: projectContent
 title: Labor baby
+keywords: "website,wordpress,multilingual"
 description: "Labor baby is a company that makes baby bottles. Their new website is made with WordPress, which satisfies their requirements."
 categories: projects
 image: /assets/img/projects/laborbaby.png
