@@ -6,14 +6,9 @@
 
             @include('_partials.menu')
 
-            <!-- <div class="row"> -->
-                <!-- <div class="col-sm-12"> -->
-                    <div class="page-content px-3">
-                        @yield('content')
-                    </div>
-                <!-- </div> -->
-
-            <!-- </div> -->
+            <main class="page-content px-3">
+                @yield('content')
+            </main>
         </div>
     </body>
 </html>

@@ -1,6 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="4tWyPU7jVmDZIz0kyjj8c7E8_a-bL_VX1uCS6U0LPLU" />
     <meta name="description" content="{{ $page->description }}">
     
     <meta property="og:title" content="{{ $page->title }} | {{ $page->website_title }}" />
@@ -9,6 +10,7 @@
     <meta property="og:site_name" content="Thomas de Luca"/>
     <meta property="og:url" content="{{$page->website_url}}{{$page->getUrl()}}" />
     <meta property="og:image" content="{{$page->website_url}}{{$page->image}}" />
+
 	
     <title>{{ $page->title }} | {{ $page->website_title }}</title>
 	

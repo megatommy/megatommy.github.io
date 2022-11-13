@@ -29,7 +29,6 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
         <div class="col-sm-8">
             <h3>Webapplications</h3>
             <p>When Excel is not enough anymore you might want to think about a webapplication. 
-            <!-- Developing with Laravel allows me to focus on your idea, from start to finish. -->
             My preferred stack is Laravel, but I'll use whatever respects your projects' requirements and constraints.
         </p>
         </div>
@@ -57,17 +56,12 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
 </section>
 
 <section class="portfolio text-center text-sm-start" style="margin-top: 75px;">
-    <!-- <h2>Things I've made</h2> -->
     <h2>Some of my creations</h2>
     <p class="mb-5">Projects that solved problems for either clients or just me.</p>
-
-    
-    
     <div class="row g-5">
         @php
         $arr = ['laborbaby', 'bme680-monitoring', 'contribution-ejc2016'];
         @endphp
-
         @foreach($arr as $site)
             @foreach($projects as $project)
                 @if($project->getFilename() == $site)
