@@ -1,4 +1,4 @@
-    <nav id="menu" class="my-3">
+    <nav id="menu" class="mt-3 mb-5">
     	<label for="menu_active" class="menu-mobile d-block d-md-none p-3 text-center">Menu</label>
         <input type="checkbox" id="menu_active" class="d-none" />
         <ul class="list-unstyled">

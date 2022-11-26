@@ -14,7 +14,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
         </div>
         <div class="col-sm-4">
              <div class="photo">
-                <img class="img-border rounded-circle" src="/assets/img/thomas-de-luca.png" alt="Picture of me!">
+                <img class="img-border rounded-circle" src="/assets/img/thomas-de-luca.jpg" alt="Picture of me!">
             </div>
         </div>
     </div>
@@ -24,7 +24,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
     <h2 class="mb-5">What can I do for you?</h2>
     <div class="row gx-5 gy-3">
         <div class="col-sm-4">
-            <img src="/assets/img/webapps.png" alt="A picture made in Excalidraw depicting a typical webapplication with various charts and a menu on the left." />
+            <img src="/assets/img/webapps.svg" alt="A picture made in Excalidraw depicting a typical webapplication with various charts and a menu on the left." />
         </div>
         <div class="col-sm-8">
             <h3>Webapplications</h3>
@@ -36,7 +36,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
     <hr class="my-5">
     <div class="row gx-5 gy-3">
         <div class="col-sm-4 order-sm-last">
-            <img src="/assets/img/websites.png" alt="A picture made in Excalidraw depicting a website template with a hero image and text, and under there 3 sections" />
+            <img src="/assets/img/websites.svg" alt="A picture made in Excalidraw depicting a website template with a hero image and text, and under there 3 sections" />
         </div>
         <div class="col-sm-8 order-sm-first">
             <h3>Websites</h3>
@@ -46,7 +46,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
     <hr class="my-5">
     <div class="row gx-5 gy-3">
         <div class="col-sm-4">
-            <img src="/assets/img/training.png" alt="A picture made in Excalidraw showing a person pointing to a whiteboard, with some computer components on it." />
+            <img src="/assets/img/training.svg" alt="A picture made in Excalidraw showing a person pointing to a whiteboard, with some computer components on it." />
         </div>
         <div class="col-sm-8">
             <h3>Training</h3>
