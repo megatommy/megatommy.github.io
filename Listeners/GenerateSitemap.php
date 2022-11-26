@@ -6,7 +6,7 @@ use samdark\sitemap\Sitemap;
 class GenerateSitemap
 {
     public $ignoreArray = [
-        '/404',
+        '/404.html',
         '/CNAME'
     ];
 
