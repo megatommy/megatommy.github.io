@@ -65,7 +65,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
         @foreach($arr as $site)
             @foreach($projects as $project)
                 @if($project->getFilename() == $site)
-                    @include('_partials.project-list-item')
+                    @include('_partials.project-list-item', ['lazyload' => true])
                 @endif
             @endforeach
         @endforeach
@@ -88,7 +88,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
     "alumniOf": "Hogeschool van Amsterdam",
     "gender": "male",
     "birthDate": "1993-03-01",
-    "image": "https://thomasdeluca.nl/assets/img/thomas-de-luca.png",
+    "image": "https://thomasdeluca.nl/assets/img/thomas-de-luca.jpg",
     "sameAs": [
         "https://www.linkedin.com/in/thomas-de-luca-b093099a/"
     ],

@@ -19,3 +19,25 @@ Otherwise check out my resumé, my code or my online presence.
     <div class="col-sm-6 order-3 order-sm-5"><p><i class="icon-file-pdf"></i> <a href="/Thomas_de_Luca_CV-IT.pdf" target="_blank">Curriculum Italiano</a></p></div>
     <div class="col-sm-6 order-last order-sm-last"><p><i class="icon-facebook"></i> <a href="https://www.facebook.com/megatommy" target="_blank">Thomas de Luca</a></p></div>
 </div>
+
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Person",
+    "name": "Thomas de Luca",
+    "url": "{{ $page->website_url }}",
+    "jobTitle": "IT Consultant",
+    "alumniOf": "Hogeschool van Amsterdam",
+    "gender": "male",
+    "birthDate": "1993-03-01",
+    "image": "https://thomasdeluca.nl/assets/img/thomas-de-luca.jpg",
+    "sameAs": [
+        "https://www.linkedin.com/in/thomas-de-luca-b093099a/"
+    ],
+    "memberOf": {
+        "@type": "Organization",
+        "name": "Spazio 2030",
+        "url": "https://spazio2030.it"
+    }
+}
+</script>

@@ -21,7 +21,7 @@ Here are some projects worked on since I started being interested in computers a
 <div class="row g-5">
 	@foreach($projects as $project)
         @if($project->display == 'experiment')
-            @include('_partials.project-list-item')
+            @include('_partials.project-list-item', ['lazyload' => true])
         @endif
     @endforeach
 </div>
@@ -30,7 +30,7 @@ Here are some projects worked on since I started being interested in computers a
 <div class="row g-5">
 	@foreach($projects as $project)
         @if($project->display == 'school')
-            @include('_partials.project-list-item')
+            @include('_partials.project-list-item', ['lazyload' => true])
         @endif
     @endforeach
 </div>
