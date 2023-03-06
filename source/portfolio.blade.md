@@ -9,7 +9,7 @@ description: "Here you can find projects I made which have solved problems. They
 Here are some projects worked on since I started being interested in computers and webdevelopment.
 
 <h2 class="mt-5 mb-3">Work related</h2>
-<div class="row g-5">
+<div class="row gy-5 gx-md-5">
     @foreach($projects as $project)
         @if($project->display == 'work')
             @include('_partials.project-list-item')
@@ -18,7 +18,7 @@ Here are some projects worked on since I started being interested in computers a
 </div>
 
 <h2 class="mt-5 mb-3">Experiments</h2>
-<div class="row g-5">
+<div class="row gy-5 gx-md-5">
 	@foreach($projects as $project)
         @if($project->display == 'experiment')
             @include('_partials.project-list-item', ['lazyload' => true])
@@ -27,7 +27,7 @@ Here are some projects worked on since I started being interested in computers a
 </div>
 
 <h2 class="mt-5 mb-3">School assignments</h2>
-<div class="row g-5">
+<div class="row gy-5 gx-md-5">
 	@foreach($projects as $project)
         @if($project->display == 'school')
             @include('_partials.project-list-item', ['lazyload' => true])

@@ -7,7 +7,7 @@ description: "The EJC2016 edition was held in Almere, and the comitee of that ye
 categories: projects
 image: /assets/img/projects/ejc2016.png
 image_alt: "The logo of the EJC206"
-subtitle: "Rewritten from static template to WordPress theme"
+subtitle: "Built using WordPress"
 display: "work"
 weight: 99
 ---

@@ -6,7 +6,7 @@
 
             @include('_partials.menu')
 
-            <main class="page-content px-3">
+            <main class="page-content">
                 @yield('content')
             </main>
         </div>

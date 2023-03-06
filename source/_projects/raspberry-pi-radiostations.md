@@ -2,7 +2,7 @@
 extends: _layouts.project
 section: projectContent
 title: Raspberry Pi radiostations
-subtitle: "Built using HTML, CSS, JS, Audioaddict network API, Node (ExpressJS), Raspberry Pi"
+subtitle: "Built using Audioaddict API, ExpressJS, Raspberry Pi"
 keywords: "raspberry,pi,audioaddict,api,bootstrap,nodejs"
 description: "An application written in ExpressJS which uses the Audioaddict API and gives you a list of radiostations, which you can select and play."
 categories: projects

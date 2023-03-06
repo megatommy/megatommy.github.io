@@ -5,16 +5,16 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
 ---
 
 <section class="about text-center text-sm-start">
-    <div class="row gx-5">
+    <div class="row gx-md-5">
         <div class="col-sm-8">
             <div class="text">
-                <h1>Ciao! I'm Thomas.</h1>
-                <p>I build things that solve problems, and teach the wonders of IT to others. In my free time I like to learn new technologies and make sure the website of <a href="https://spazio2030.it" target="_blank">Spazio 2030</a> doesn't go offline.</p>
+                <h1 class="website-title">Ciao! I'm Thomas.</h1>
+                <p>I build things that solve problems, and teach the wonders of IT to others. In my free time I like to learn new technologies and make sure the website of <a href="https://spazio2030.it" target="_blank">Spazio 2030</a> stays online.</p>
             </div>
         </div>
         <div class="col-sm-4">
              <div class="photo">
-                <img class="img-border rounded-circle" src="/assets/img/thomas-de-luca.jpg" alt="Picture of me!">
+                <img class="rounded-circle" src="/assets/img/thomas-de-luca.jpg" alt="Picture of me!">
             </div>
         </div>
     </div>
@@ -22,7 +22,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
 
 <section class="services text-center text-sm-start" style="margin-top: 75px;">
     <h2 class="mb-5">What can I do for you?</h2>
-    <div class="row gx-5 gy-3">
+    <div class="row gx-md-5 gy-3">
         <div class="col-sm-4">
             <img src="/assets/img/webapps.svg" alt="A picture made in Excalidraw depicting a typical webapplication with various charts and a menu on the left." />
         </div>
@@ -34,7 +34,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
         </div>
     </div>
     <hr class="my-5">
-    <div class="row gx-5 gy-3">
+    <div class="row gx-md-5 gy-3">
         <div class="col-sm-4 order-sm-last">
             <img src="/assets/img/websites.svg" alt="A picture made in Excalidraw depicting a website template with a hero image and text, and under there 3 sections" />
         </div>
@@ -44,7 +44,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
         </div>
     </div>
     <hr class="my-5">
-    <div class="row gx-5 gy-3">
+    <div class="row gx-md-5 gy-3">
         <div class="col-sm-4">
             <img src="/assets/img/training.svg" alt="A picture made in Excalidraw showing a person pointing to a whiteboard, with some computer components on it." />
         </div>
@@ -58,7 +58,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
 <section class="portfolio text-center text-sm-start" style="margin-top: 75px;">
     <h2>Some of my creations</h2>
     <p class="mb-5">Projects that solved problems for either clients or just me.</p>
-    <div class="row g-5">
+    <div class="row gy-5 gx-md-5">
         @php
         $arr = ['laborbaby', 'bme680-monitoring', 'contribution-ejc2016'];
         @endphp

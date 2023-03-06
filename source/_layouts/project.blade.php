@@ -3,7 +3,7 @@
 @section('content')
 
 <h1>{{ $page->title }}</h1>
-@if($page->subtitle)<h2 class="fs-5">{{ $page->subtitle }}</h2>@endif
+@if($page->subtitle)<h2 class="fs-6 fw-normal fst-italic">{{ $page->subtitle }}</h2>@endif
 <div class="text-center my-4">
     <img class="rounded img-border" src="{{ $page->image }}" alt="{{ $page->image_alt }}" />
 </div>
