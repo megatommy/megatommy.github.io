@@ -33,7 +33,7 @@ tech:
   label: Technological knowledge
   entries:
     Languages: HTML, CSS, JavaScript, PHP, SQL
-    Libraries & Frameworks: Bootstrap, jQuery, Vue, NodeJS, Laravel
+    Libraries & Frameworks: Bootstrap, jQuery, Vuejs, Nodejs, Laravel
     CMS & Site Generators: WordPress, GravCMS, Jekyll, Hugo
     Project management: Git, Redmine, YouTrack, Kaseya BMS
     Server software: Windows, Linux, Virtualbox, VMWare, Docker, Apache
@@ -47,12 +47,12 @@ work:
       place: "<a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a>"
       position: Coding Coach / Tutor
       activities: Helping students of the course with their questions and doubts regarding programming languages, preparing and giving recaps, verifying the homework done by the students
-      technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
+      technologies: Zoom, HTML, CSS, Bootstrap, JS, Vuejs, MySQL, PHP, Laravel, Git
     - time: Oct. 2018 - Present
       place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
-      position: System Administrator in the Provincial Council
-      activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring network, writing technical documentation
-      technologies: Windows Server, Linux, Netwrix, HDA (ticketing system), Iride, Libra
+      position: IT Support / System Administrator in the Provincial Council
+      activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring the network, writing technical documentation
+      technologies: Windows Server, IIS, Linux, Apache, VMWare, Netwrix, HDA (ticketing system), Ivanti
     - time: Jan. 2019 - May 2019
       place: <a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a>
       position: Network Operations Center (NOC) Specialist
@@ -61,12 +61,12 @@ work:
     - time: Jan. 2018 - Jul. 2018
       place: <a href='https://www.sitel.com/' target='_blank'>Sitel</a> 
       position: Technical Customer Support Agent for Lexmark
-      activities: Troubleshooting customers' Lexmark printer issues, <a href="https://thomasdeluca.nl/portfolio/lexmark-webtool" target="_blank">developed an internal application</a> to look up information faster thus decreasing the time needed to help customers.
+      activities: Troubleshooting customers' Lexmark printer issues, <a href="https://thomasdeluca.nl/portfolio/lexmark-webtool" target="_blank">developed an internal application</a> to look up information faster thus decreasing the time needed to help customers
       technologies: Siebel, Boldchat, LogMeIn, internal app written with Hugo and Python.
     - time: Mar. 2017 - Sep. 2017<br>Jul. 2018 - Aug. 2018
       place: <a href='http://www.movementontheground.com/' target='_blank'>Movement on the Ground</a>
-      position: IT technician (volunteer)
-      activities: Kids' activities, cooking, helping with solar panels and electricity, maintaining the website, fixing computers, improving WiFi connectivity
+      position: IT Technician (volunteer)
+      activities: Maintaining the website, fixing computers, improving WiFi connectivity, helping with solar panels and electricity, kids' activities, cooking
       technologies: Cambium, Ubiquity, RouterOS, Linux, WordPress, Grav CMS
     - time: Nov. 2014 - Jul. 2015<br>Feb. 2016 - Aug. 2016
       place: <a href='http://www.virtuagym.com/' target='_blank'>Virtuagym</a>
