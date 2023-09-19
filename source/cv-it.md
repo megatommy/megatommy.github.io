@@ -32,11 +32,11 @@ languages:
 tech:
   label: Competenze tecniche
   entries:
-    Linguaggi: HTML, CSS, JavaScript, PHP, SQL
-    Librerie & Framework: Bootstrap, jQuery, Vue, NodeJS, Laravel
+    Linguaggi: HTML, CSS, JavaScript, PHP, SQL, Python, Bash, Powershell
+    Librerie & Framework: Bootstrap, jQuery, Vuejs, Nodejs, Laravel
     CMS & Site Generators: WordPress, GravCMS, Jekyll, Hugo
     Project management: Git, Redmine, YouTrack, Kaseya BMS
-    Software di server: Windows, Linux, Virtualbox, VMWare, Docker, Apache
+    Software di server: Windows, Linux, Virtualbox, VMWare, Apache
     Hardware: Raspberry Pi, Cambium Networks, stampanti Lexmark
 
 work:
@@ -45,14 +45,14 @@ work:
   entries:
     - time: Feb. 2021 - Presente
       place: "<a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a>"
-      position: Coding coach / Tutor
+      position: Teacher Assistant
       activities: Aiutare gli studenti del corso rispondendo alle loro domande e i loro dubbi su i linguaggi di programmazione, preparare e dare dei recap, controllare i compiti fatti dagli studenti
       technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Ott. 2018 - Presente
       place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
       position: Tecnico Informatico presso l'Amministrazione Provinciale di Forlì-Cesena
       activities: Configurazione server, risoluzione di problemi in remoto e sul posto, controllo di qualità di hardware, reinstallazione di sistemi operativi, scrivere documentazione tecnica e manuali per utenti
-      technologies: Windows AD, Linux, HDA (ticketing system), Netwrix, Iride, Libra
+      technologies: Windows Server, IIS, Linux, Apache, VMWare, Python, Grafana, Ivanti
     - time: Gen. 2019 - Mag. 2019
       place: <a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a>
       position: Network Operations Center (NOC) Specialist

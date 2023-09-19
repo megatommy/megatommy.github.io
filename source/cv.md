@@ -32,11 +32,11 @@ languages:
 tech:
   label: Technological knowledge
   entries:
-    Languages: HTML, CSS, JavaScript, PHP, SQL
+    Languages: HTML, CSS, JavaScript, PHP, SQL, Python, Bash, Powershell
     Libraries & Frameworks: Bootstrap, jQuery, Vuejs, Nodejs, Laravel
     CMS & Site Generators: WordPress, GravCMS, Jekyll, Hugo
     Project management: Git, Redmine, YouTrack, Kaseya BMS
-    Server software: Windows, Linux, Virtualbox, VMWare, Docker, Apache
+    Server software: Windows, Linux, Virtualbox, VMWare, Apache
     Hardware: Raspberry Pi, Cambium Networks, Lexmark printers
 
 work:
@@ -45,14 +45,14 @@ work:
   entries:
     - time: Feb. 2021 - Present
       place: "<a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a>"
-      position: Coding Coach / Tutor
+      position: Teacher Assistant
       activities: Helping students of the course with their questions and doubts regarding programming languages, preparing and giving recaps, verifying the homework done by the students
       technologies: Zoom, HTML, CSS, Bootstrap, JS, Vuejs, MySQL, PHP, Laravel, Git
     - time: Oct. 2018 - Present
       place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
       position: IT Support / System Administrator in the Provincial Council
       activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring the network, writing technical documentation
-      technologies: Windows Server, IIS, Linux, Apache, VMWare, Netwrix, HDA (ticketing system), Ivanti
+      technologies: Windows Server, IIS, Linux, Apache, VMWare, Python, Grafana, Ivanti
     - time: Jan. 2019 - May 2019
       place: <a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a>
       position: Network Operations Center (NOC) Specialist

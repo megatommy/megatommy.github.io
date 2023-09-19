@@ -7,7 +7,9 @@ class GenerateSitemap
 {
     public $ignoreArray = [
         '/404.html',
-        '/CNAME'
+        '/CNAME',
+        '/cv',
+        '/cv-it'
     ];
 
     public function handle(Jigsaw $jigsaw)

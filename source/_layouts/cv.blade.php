@@ -5,13 +5,13 @@
         <meta charset="utf-8">
         <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
         <!-- <link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'> -->
-        <link href="https://fonts.googleapis.com/css?family=Raleway:wght@400;600&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap" type="text/css" rel="stylesheet">
         <link rel="shortcut icon" href="/assets/img/favicon.ico">
         
         <style>
             /* Not separating style from content: I want my CV to be as portable as possible */
             html, table {
-                /*font-family: 'Open Sans', sans-serif;*/
+                /* font-family: 'Open Sans', sans-serif; */
                 font-family: 'Raleway', sans-serif;
                 font-size: .95em;
                 background-color: #EFEFEF;
@@ -26,6 +26,9 @@
                 font-size: 3rem;
                 margin: 1rem 0 0;
                 text-align: center;
+            }
+            h2 {
+                font-size: 1.4em;
             }
             .contact-details {
                 display: flex;
