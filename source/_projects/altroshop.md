@@ -5,7 +5,7 @@ title: Altroshop
 subtitle: "Built using Prestashop"
 keywords: "ecommerce,prestashop"
 description: "Altroshop was the ecommerce of Equamente, a cooperative in Forlì which sells fair trade products. The ecommerce was made with Prestashop."
-categories: projects
+categories: projects-old
 image: /assets/img/projects/altroshop.png
 image_alt: "A screenshot of how Altroshop looks like"
 display: "work"
