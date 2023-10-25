@@ -9,7 +9,7 @@ categories: projects
 image: /assets/img/projects/cascina-la-maddalena-logo.png
 image_alt: "The logo of Cascina La Maddalena"
 display: "work"
-weight: 98
+weight: 97
 ---
 
 Cascina La Maddalena is a Bed and Breakfast located in Piedmont, Italy. It offers various enotourism and agritourism activities and is situated near very typical Nothern Italian places.

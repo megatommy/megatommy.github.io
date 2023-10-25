@@ -9,7 +9,7 @@ categories: projects
 image: /assets/img/projects/hardware-monitoring.png
 image_alt: "A screenshot of how the hardware monitoring application looks like"
 display: "work"
-weight: 98
+weight: 96
 ---
 
 A client of mine has a machine from which they extract different values from, like force, temperature, etc. These values get written into CSV files, which then get uploaded to a computer. The issue the client had, was that they had no way of analysing these values in real time from a mobile device.

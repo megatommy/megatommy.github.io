@@ -20,6 +20,6 @@ The requirements were:
 - Multilungual functionality
 - SEO ready
 
-With these requirements me and my partner created new website.
+With these requirements in mind I created new website and showed the client the progress I was making along the way.
 
-<a href="https://www.laborbaby.it/" target="_blank">The new website of Labor baby</a> is made with WordPress and has all the functionality the client needed.
+<a href="https://www.laborbaby.it/" target="_blank">The new website of Labor baby</a> is made with WordPress and has all the functionality the client needs.

@@ -9,7 +9,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
         <div class="col-sm-8">
             <div class="text">
                 <h1 class="website-title">Ciao! I'm Thomas.</h1>
-                <p>I build things that solve problems, and teach the wonders of IT to others. In my free time I like to learn new technologies and make sure the website of <a href="https://spazio2030.it" target="_blank">Spazio 2030</a> stays online.</p>
+                <p>I build things that solve problems, and teach the wonders of IT to others. In my free time I like to learn new technologies and make sure the website of <a href="/portfolio/spazio-2030">Spazio 2030</a> stays online.</p>
             </div>
         </div>
         <div class="col-sm-4">

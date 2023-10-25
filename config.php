@@ -15,6 +15,7 @@ return [
     	'projects' => [
     		'path' => 'portfolio/{-filename}',
     		'sort' => ['-weight'],
+            // 'sort' => ['title'],
             'filter' => function($item){
                 return $item->categories == 'projects';
             }
