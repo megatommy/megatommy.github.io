@@ -2,6 +2,7 @@
 extends: _layouts.default
 title: About me
 description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look at the services I provide to my clients or the projects I made."
+image: /assets/img/thomas-de-luca.jpg
 ---
 
 <section class="about text-center text-sm-start">
@@ -60,7 +61,7 @@ description: "Ciao! I'm Thomas! I'm an IT consultant and tinkerer. Have a look a
     <p class="mb-5">Projects that solved problems for either clients or just me.</p>
     <div class="row gy-5 gx-md-5">
         @php
-        $arr = ['laborbaby', 'bme680-monitoring', 'contribution-ejc2016'];
+        $arr = ['salva-la-zampa', 'bme680-monitoring', 'globaldash'];
         @endphp
         @foreach($arr as $site)
             @foreach($projects as $project)
