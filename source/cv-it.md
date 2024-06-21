@@ -16,6 +16,8 @@ education:
       field: "<a href='https://www.youracclaim.com/badges/ca2ac504-91b9-4976-94cf-d821b87cd9fc' target='_blank'>MS Certified: Azure Fundamentals (AZ-900)</a>"
     - time: 2021
       field: "<a href='https://www.youracclaim.com/badges/bed93a5a-647a-4937-baaa-c78a425dc60f' target='_blank'>Linux Foundation Certified Sysadmin (LFCS)</a>"
+    - time: 2024
+      field: "<a href='https://app.myopenbadge.com/obadge-issuer-check/osTvBcdX-09de38ed9d8a32d00dbbe9b56c35fa74-TOfi-5' target='_blank'>EDSC DigComp 2.2</a>"
 
 languages:
   label: Competenze linguistiche
@@ -43,6 +45,10 @@ work:
   label: Esperienza lavorativa
   sublabel: Riferimenti disponibili su richiesta. Visita <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> per vedere vari progetti fatti da me.
   entries:
+    - time: Mag. 2024 - Presente
+      place: "<a href='https://essemmemultimedia.it/' target='_blank'>Essemme Multimedia</a>"
+      position: Formatore ICT
+      activities: Condurre percorsi formativi basati sui quadri di riferimento europeo DigComp 2.2 e DigCompEdu rivolti al personale scolastico, insegnando l'uso corretto ed efficace di vari strumenti digitali
     - time: Feb. 2021 - Presente
       place: "<a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a>"
       position: Teacher Assistant
@@ -114,7 +120,7 @@ workaways:
       position: Receptionista, addetto alle pulizie, barista
       activities: Fare il check-in e checkout degli ospiti, turni di notte, vendita bevande
 
-gdpr: Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 GDPR 679/16.
+# gdpr: Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 GDPR 679/16.
 
 extends: _layouts.cv
 ---

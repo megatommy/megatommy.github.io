@@ -16,6 +16,8 @@ education:
       field: "<a href='https://www.youracclaim.com/badges/ca2ac504-91b9-4976-94cf-d821b87cd9fc' target='_blank'>MS Certified: Azure Fundamentals (AZ-900)</a>"
     - time: 2021
       field: "<a href='https://www.youracclaim.com/badges/bed93a5a-647a-4937-baaa-c78a425dc60f' target='_blank'>Linux Foundation Certified Sysadmin (LFCS)</a>"
+    - time: 2024
+      field: "<a href='https://app.myopenbadge.com/obadge-issuer-check/osTvBcdX-09de38ed9d8a32d00dbbe9b56c35fa74-TOfi-5' target='_blank'>EDSC DigComp 2.2</a>"
 
 languages:
   label: Language proficiency
@@ -43,6 +45,10 @@ work:
   label: Work experience
   sublabel: References available upon request. Visit <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> for various projects I made.
   entries:
+    - time: May 2024 - Present
+      place: "<a href='https://essemmemultimedia.it/' target='_blank'>Essemme Multimedia</a>"
+      position: ICT Teacher
+      activities: Conduct training courses based on the European reference frameworks DigComp 2.2 and DigCompEdu aimed at school staff, teaching the correct and effective use of various digital tools
     - time: Feb. 2021 - Present
       place: "<a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a>"
       position: Teacher Assistant
@@ -114,7 +120,7 @@ workaways:
       position: Volunteer (receptionist, cleaner, bar staff)
       activities: Checking in/out guests, cleaning hostel, night shifts, making beds, selling drinks at the bar
 
-gdpr: I hereby authorize the use of my personal data in accordance to the GDPR 679/16 - "European regulation on the protection of personal data".
+# gdpr: I hereby authorize the use of my personal data in accordance to the GDPR 679/16 - "European regulation on the protection of personal data".
 
 extends: _layouts.cv
 ---

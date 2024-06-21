@@ -118,7 +118,7 @@
                 <td class="paddingBot">
                     <b>{!! $entry->position !!}</b> | {!! $entry->place !!}
                     <br /><b>{!! $page->tr_activities !!}:</b> {!! $entry->activities !!}
-                    <br /><b>{!! $page->tr_technologies_used !!}:</b> {!! $entry->technologies !!}
+                    @if($entry->technologies)<br /><b>{!! $page->tr_technologies_used !!}:</b> {!! $entry->technologies !!}@endif
                 </td>
             </tr>
             @endforeach
