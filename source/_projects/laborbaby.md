@@ -26,8 +26,14 @@ With these requirements in mind I created new website and showed the client the 
 
 <div class="row">
     <div class="col-sm-3">
-        <a href="/assets/img/projects/laborbaby.png">
+        <a href="/assets/img/projects/laborbaby.png" class="lightbox" data-gallery="project-gallery">
             <img class="rounded img-border" src="/assets/img/projects/laborbaby.png" alt="A laptop and a phone showing how the website of Labor baby looks like on those devices" />
         </a>
     </div>
 </div>
+
+<script>
+    const lightbox = GLightbox({
+        selector: '.lightbox'
+    });
+</script>

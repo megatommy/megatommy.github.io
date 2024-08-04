@@ -19,48 +19,27 @@
     <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
 	<link rel="shortcut icon" href="/assets/img/favicon.ico">
     <link href="/assets/fonts/fontello/css/fontello.css" rel="stylesheet"/>
-    <link href="/assets/css/bootstrap-grid.min.css" rel="stylesheet"/>
-    <link href="/assets/css/bootstrap-utilities.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-5.3.3-grid.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-5.3.3-utilities.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+    <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
     <link href="/assets/css/style.css" rel="stylesheet"/>
-
-    <!-- Matomo -->
-    <script>
-      /* I just track your visit to this page. I don't track you using a cookies or anything else!
-      I just care how many people visited which pages, that's all!
-      I also made sure to follow al these steps: https://matomo.org/faq/new-to-piwik/how-do-i-use-matomo-analytics-without-consent-or-cookie-banner/ */
-
-      var _paq = window._paq = window._paq || [];
-      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-            _paq.push(["disableCookies"]);
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="//stats.thomasdeluca.nl/";
-        _paq.push(['setTrackerUrl', u+'matomo.php']);
-        _paq.push(['setSiteId', '1']);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <noscript><p><img src="//stats.thomasdeluca.nl/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-    <!-- End Matomo Code -->
 </head>
     <body>
         <div class="container-fluid">
 
-            <nav id="menu" class="mt-2 mb-5 my-md-5 d-flex align-items-baseline justify-content-between">
+            <nav id="menu" class="mt-2 mb-5 my-sm-5 d-block d-sm-flex align-items-baseline justify-content-between">
         <a class="font-monospace fs-4 fw-bold" href="/">~/thomas</a>
-        <div class="text-end">
-    	<a href="" class="menu-mobile d-block d-md-none py-3 px-md-3" onclick="document.getElementById('menu-links').classList.toggle('d-block'); return false;">Menu</a>
-            <ul id="menu-links" class="list-unstyled" style="font-size: 0.9rem;">
-            <li class=" d-block d-md-inline-block">
-                <a href="/portfolio" class="ms-md-3 d-block d-md-inline-block py-3 px-md-3">Portfolio</a>
+        <div class="text-sm-end">
+            <ul id="menu-links" class="list-unstyled d-flex justify-content-around d-sm-block" style="font-size: 0.9rem;">
+            <li class=" d-block d-sm-inline-block">
+                <a href="/portfolio" class="ms-sm-3 d-block d-sm-inline-block py-3 px-sm-3">Portfolio</a>
             </li>
-            <li class="d-block d-md-inline-block">
-                <a href="/Thomas_de_Luca_CV.pdf" class="ms-md-3 d-block d-md-inline-block py-3 px-md-3">Resumé</a>
+            <li class="d-block d-sm-inline-block">
+                <a href="/Thomas_de_Luca_CV.pdf" class="ms-sm-3 d-block d-sm-inline-block py-3 px-sm-3">Resumé</a>
             </li>
-            <li class=" fw-bold  d-block d-md-inline-block">
-                <a href="/contact" class="ms-md-3 d-block d-md-inline-block py-3 px-md-3">Contact</a>
+            <li class=" fw-bold  d-block d-sm-inline-block">
+                <a href="/contact" class="ms-sm-3 d-block d-sm-inline-block py-3 px-sm-3">Contact</a>
             </li>
         </ul></div>
     </nav>

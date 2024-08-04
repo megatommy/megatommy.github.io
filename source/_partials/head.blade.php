@@ -17,32 +17,9 @@
     <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
 	<link rel="shortcut icon" href="/assets/img/favicon.ico">
     <link href="/assets/fonts/fontello/css/fontello.css" rel="stylesheet"/>
-    <link href="/assets/css/bootstrap-grid.min.css" rel="stylesheet"/>
-    <link href="/assets/css/bootstrap-utilities.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-5.3.3-grid.min.css" rel="stylesheet"/>
+    <link href="/assets/css/bootstrap-5.3.3-utilities.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+    <script src="https://cdn.jsdelivr.net/gh/mcstudios/glightbox/dist/js/glightbox.min.js"></script>
     <link href="/assets/css/style.css" rel="stylesheet"/>
-
-    <!-- Matomo -->
-    <script>
-      /* I just track your visit to this page. I don't track you using a cookies or anything else!
-      I just care how many people visited which pages, that's all!
-      I also made sure to follow al these steps: https://matomo.org/faq/new-to-piwik/how-do-i-use-matomo-analytics-without-consent-or-cookie-banner/ */
-
-      var _paq = window._paq = window._paq || [];
-      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-      @if($page->getFilename() == '404')
-        _paq.push(['setDocumentTitle',  '404/URL = ' +  encodeURIComponent(document.location.pathname+document.location.search) + '/From = ' + encodeURIComponent(document.referrer)]);
-      @endif
-      _paq.push(["disableCookies"]);
-      _paq.push(['trackPageView']);
-      _paq.push(['enableLinkTracking']);
-      (function() {
-        var u="//stats.thomasdeluca.nl/";
-        _paq.push(['setTrackerUrl', u+'matomo.php']);
-        _paq.push(['setSiteId', '1']);
-        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-        g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-      })();
-    </script>
-    <noscript><p><img src="//stats.thomasdeluca.nl/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-    <!-- End Matomo Code -->
 </head>

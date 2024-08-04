@@ -4,17 +4,17 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google-site-verification" content="4tWyPU7jVmDZIz0kyjj8c7E8_a-bL_VX1uCS6U0LPLU" />
-    <meta name="description" content="A game written in HTML and JS, where you control an anti virus and have to protect your computer from viruses. Made for university">
+    <meta name="description" content="Amnesia is a small web application to create notifications on your phone">
     
-    <meta property="og:title" content="PC Invaders | Thomas de Luca" />
-    <meta property="og:description" content="A game written in HTML and JS, where you control an anti virus and have to protect your computer from viruses. Made for university" />
+    <meta property="og:title" content="Amnesia | Thomas de Luca" />
+    <meta property="og:description" content="Amnesia is a small web application to create notifications on your phone" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Thomas de Luca"/>
-    <meta property="og:url" content="https://thomasdeluca.nl/portfolio/pc-invaders" />
-    <meta property="og:image" content="https://thomasdeluca.nl/assets/img/projects/pci.png" />
+    <meta property="og:url" content="https://thomasdeluca.nl/portfolio/amnesia" />
+    <meta property="og:image" content="https://thomasdeluca.nl/assets/img/projects/amnesia.png" />
 
 	
-    <title>PC Invaders | Thomas de Luca</title>
+    <title>Amnesia | Thomas de Luca</title>
 	
     <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
 	<link rel="shortcut icon" href="/assets/img/favicon.ico">
@@ -45,29 +45,40 @@
     </nav>
             <main class="page-content">
                 
-<h1>PC Invaders</h1>
-<h2 class="fs-6 fw-normal fst-italic">Built using HTML, Bootstrap, jQuery</h2><div class="text-center my-4">
-    <img class="rounded img-border" src="/assets/img/projects/pci.png" alt="A screenshot taken while playing the game, showing the gameplay of the game." />
+<h1>Amnesia</h1>
+<h2 class="fs-6 fw-normal fst-italic">Built using Vuejs</h2><div class="text-center my-4">
+    <img class="rounded img-border" src="/assets/img/projects/amnesia.png" alt="The logo of Amnesia" />
 </div>
-<p><a href="https://projects.thomasdeluca.nl/game">PC Invaders</a> is a game I made for a couse called Serious Games. I made this game using the HTML5 canvas.</p>
+<p>I created Amnesia because I found myself jotting down short-term reminders on paper, but then I would lose the paper. This small web application creates a notification on your phone with the title (and optionally a body) that you insert. Nothing more, nothing less.</p>
 
-<p>In this game you controll an anti-virus. The files that move from the left to the right are files that are being downloaded. some of those files are malware. You have to destroy all the malware and keep your anti-virus up to date by clicking on the updates in the Notification Centre.</p>
+<div class="row">
+    <div class="col-sm-3">
+        <a href="/assets/img/projects/amnesia-app-screenshot.jpg" class="lightbox" data-gallery="project-gallery">
+            <img class="rounded img-border w-100 object-fit-cover" style="max-height: 250px; object-position: center top;" src="/assets/img/projects/amnesia-app-screenshot.jpg" alt="Showing how the application looks like" />
+        </a>
+    </div>
+    <div class="col-sm-3">
+        <a href="/assets/img/projects/amnesia-notification-screenshot.jpg" class="lightbox" data-gallery="project-gallery">
+            <img class="rounded img-border w-100 object-fit-cover" style="max-height: 250px; object-position: center top;" src="/assets/img/projects/amnesia-notification-screenshot.jpg" alt="Showing how the application looks like" />
+        </a>
+    </div>
+</div>
 
-<p>When you lose, you can share your score on Facebook.</p>
-
-<p>Oh BTW, I got an 8.5 for it! :)</p>
-
-<p><a href="https://projects.thomasdeluca.nl/game">PC Invaders</a></p>
+<script>
+    const lightbox = GLightbox({
+        selector: '.lightbox'
+    });
+</script>
 
 <script type="application/ld+json">
 {
     "@context": "http://schema.org",
     "@type": "SoftwareApplication",
-    "name": "PC Invaders",
-    "keywords": "videogame,university,serious,games",
-    "url": "https://thomasdeluca.nl/portfolio/pc-invaders",
-    "image": "https://thomasdeluca.nl/assets/img/projects/pci.png",
-    "description": "A game written in HTML and JS, where you control an anti virus and have to protect your computer from viruses. Made for university",
+    "name": "Amnesia",
+    "keywords": "webapp,reminder,notifications",
+    "url": "https://thomasdeluca.nl/portfolio/amnesia",
+    "image": "https://thomasdeluca.nl/assets/img/projects/amnesia.png",
+    "description": "Amnesia is a small web application to create notifications on your phone",
     "creator": {
         "@type": "Person",
         "name": "Thomas de Luca",
