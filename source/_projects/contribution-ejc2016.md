@@ -9,7 +9,7 @@ image: /assets/img/projects/ejc2016.png
 image_alt: "The logo of the EJC206"
 subtitle: "Built using WordPress"
 display: "work"
-weight: 98
+weight: 97
 ---
 
 The European Juggling Convention is a week-long juggling convention which takes place once a year in the summer. It takes place in a different country each year. In 2016 the EJC was held in Almere, The Netherlands.
