@@ -54,7 +54,7 @@ work:
       position: Teacher Assistant
       activities: Helping students of the course with their questions and doubts regarding programming languages, preparing and giving recaps, verifying the homework done by the students
       technologies: Zoom, HTML, CSS, Bootstrap, JS, Vuejs, MySQL, PHP, Laravel, Git
-    - time: Oct. 2018 - Aug. 2023
+    - time: Oct. 2018 - Present
       place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
       position: IT Support / System Administrator in the Provincial Council
       activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring the network, writing technical documentation
