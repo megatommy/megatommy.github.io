@@ -38,18 +38,25 @@ tech:
     Libraries & Frameworks: Bootstrap, jQuery, Vuejs, Nodejs, Laravel
     CMS & Site Generators: WordPress, GravCMS, Jekyll, Hugo
     Project management: Git, Redmine, YouTrack, Kaseya BMS
-    Server software: Windows, Linux, Virtualbox, VMWare, Apache
+    Server software: Windows Server, Linux, Virtualbox, VMWare, Docker
+    Webserver: Apache, Nginx, IIS, Caddy, reverse proxy, SSL certificates
     Hardware: Raspberry Pi, Cambium Networks, Lexmark printers
 
 work:
   label: Work experience
   sublabel: References available upon request. Visit <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> for various projects I made.
   entries:
-    - time: May 2024 - Present
+    - time: Mar. 2025 - Present
+      place: "<a href='https://www.irecoop.it/' target='_blank'>Irecoop</a>"
+      position: Digital skills teacher
+      activities: Delivering training courses on digital skills including cybersecurity, Microsoft Office, Google Workspace, and web development
+      technologies: Microsoft Office, Google Workspace, Wordpress, Elementor
+    - time: May 2024 - May 2025
       place: "<a href='https://essemmemultimedia.it/' target='_blank'>Essemme Multimedia</a>"
       position: ICT Teacher
       activities: Conduct training courses based on the European reference frameworks DigComp 2.2 and DigCompEdu aimed at school staff, teaching the correct and effective use of various digital tools
-    - time: Feb. 2021 - Present
+      technologies: Meta Quest, Arduino, Canva, Lavagne interattive, Beebot, Stampanti 3D
+    - time: Feb. 2021 - May 2025
       place: "<a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a>"
       position: Teacher Assistant
       activities: Helping students of the course with their questions and doubts regarding programming languages, preparing and giving recaps, verifying the homework done by the students
@@ -58,7 +65,7 @@ work:
       place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
       position: IT Support / System Administrator in the Provincial Council
       activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring the network, writing technical documentation
-      technologies: Windows Server, IIS, Linux, Apache, VMWare, Python, Grafana, Ivanti
+      technologies: Windows Server, IIS, Linux, Apache, VMWare, Python, Grafana, Ivanti, Laravel, Docker
     - time: Jan. 2019 - May 2019
       place: <a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a>
       position: Network Operations Center (NOC) Specialist

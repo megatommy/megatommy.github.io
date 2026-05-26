@@ -37,19 +37,26 @@ tech:
     Linguaggi: HTML, CSS, JavaScript, PHP, SQL, Python, Bash, Powershell
     Librerie & Framework: Bootstrap, jQuery, Vuejs, Nodejs, Laravel
     CMS & Site Generators: WordPress, GravCMS, Jekyll, Hugo
-    Project management: Git, Redmine, YouTrack, Kaseya BMS
-    Software di server: Windows, Linux, Virtualbox, VMWare, Apache
+    Project management: Git, Redmine, YouTrack, Kaseya BMS, Helpdesk Advanced
+    Software di server: Windows Server, Linux, Virtualbox, VMWare, Docker
+    Webserver: Apache, Nginx, IIS, Caddy, reverse proxy, certificati SSL
     Hardware: Raspberry Pi, Cambium Networks, stampanti Lexmark
 
 work:
   label: Esperienza lavorativa
   sublabel: Riferimenti disponibili su richiesta. Visita <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> per vedere vari progetti fatti da me.
   entries:
-    - time: Mag. 2024 - Presente
+    - time: Mar. 2025 - Presente
+      place: "<a href='https://www.irecoop.it/' target='_blank'>Irecoop</a>"
+      position: Docente competenze digitali
+      activities: Condurre percorsi formativi su competenze digitali relative alla cybersicurezza, all'utilizzo del pacchetto Office, dell'ecosistema Google e allo sviluppo di siti web
+      technologies: Pacchetto Office, Google Workspace, Wordpress, Elementor
+    - time: Mag. 2024 - Mag. 2025
       place: "<a href='https://essemmemultimedia.it/' target='_blank'>Essemme Multimedia</a>"
       position: Formatore ICT
       activities: Condurre percorsi formativi basati sui quadri di riferimento europeo DigComp 2.2 e DigCompEdu rivolti al personale scolastico, insegnando l'uso corretto ed efficace di vari strumenti digitali
-    - time: Feb. 2021 - Presente
+      technologies: Meta Quest, Arduino, Canva, Lavagne interattive, Beebot, Stampanti 3D
+    - time: Feb. 2021 - Mag. 2025
       place: "<a href='https://www.boolean.careers/' target='_blank'>Boolean Careers</a>"
       position: Teacher Assistant
       activities: Aiutare gli studenti del corso rispondendo alle loro domande e i loro dubbi su i linguaggi di programmazione, preparare e dare dei recap, controllare i compiti fatti dagli studenti
@@ -58,7 +65,7 @@ work:
       place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
       position: Tecnico Informatico presso l'Amministrazione Provinciale di Forlì-Cesena
       activities: Configurazione server, risoluzione di problemi in remoto e sul posto, controllo di qualità di hardware, reinstallazione di sistemi operativi, scrivere documentazione tecnica e manuali per utenti
-      technologies: Windows Server, IIS, Linux, Apache, VMWare, Python, Grafana, Ivanti
+      technologies: Windows Server, IIS, Linux, Apache, VMWare, Python, Grafana, Ivanti, Laravel, Docker
     - time: Gen. 2019 - Mag. 2019
       place: <a href='https://www.t-consulting.it/' target='_blank'>T-Consulting</a>
       position: Network Operations Center (NOC) Specialist
@@ -110,7 +117,7 @@ workaways:
     - time: Nov. 2016 - Dic. 2016
       place: <b><a href='http://www.laterrerahostel.com/en/' target='_blank'>La Terrera Hostel</a></b>, Tenerife, Spagna
       position: Receptionista, Assistenza tecnica
-      activities: Fare il check-in e checkout degli ospiti, pulire l'ostello, assistenza con Attività svolte informatiche
+      activities: Fare il check-in e checkout degli ospiti, pulire l'ostello, assistenza con attività informatiche
     - time: Nov. 2015 - Gen. 2016
       place: <b><a href='http://sevillabackpackers.es/' target='_blank'>Sevilla Backpackers Inn</a></b>, Sevilla, Spagna
       position: Addetto alle pulizie, cuoco
