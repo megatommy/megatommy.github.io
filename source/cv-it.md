@@ -73,7 +73,7 @@ work:
       technologies: Windows AD, Kaseya Suite, Office365, Auvik, VMWare, SGBox, Laravel
     - time: Gen. 2018 - Lug. 2018
       place: <a href='https://www.sitel.com/' target='_blank'>Sitel</a>
-      position: Agente di assistenza tecnica clienti per Lexmark
+      position: <div class="page-break"></div>Agente di assistenza tecnica clienti per Lexmark
       activities: Risoluzione di problemi di stampanti per clienti, <a href="https://thomasdeluca.nl/portfolio/lexmark-webtool" target="_blank">sviluppato applicazione interna</a> per cercare le informazioni più velocemente riducendo così il tempo necessario per aiutare i clienti.
       technologies: "Siebel, Boldchat, LogMeIn, applicazione interna: Hugo e Python."
     - time: Mar. 2017 - Set. 2017<br />Lug. 2018 - Ago. 2018
@@ -127,7 +127,7 @@ workaways:
       position: Receptionista, addetto alle pulizie, barista
       activities: Fare il check-in e checkout degli ospiti, turni di notte, vendita bevande
 
-# gdpr: Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 GDPR 679/16.
+gdpr: Autorizzo il trattamento dei dati personali contenuti nel mio curriculum vitae in base all’art. 13 del D. Lgs. 196/2003 e all’art. 13 GDPR 679/16.
 
 extends: _layouts.cv
 ---

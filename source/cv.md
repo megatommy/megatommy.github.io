@@ -73,7 +73,7 @@ work:
       technologies: Windows AD, Kaseya Suite, Office365, Auvik, Laravel
     - time: Jan. 2018 - Jul. 2018
       place: <a href='https://www.sitel.com/' target='_blank'>Sitel</a> 
-      position: Technical Customer Support Agent for Lexmark
+      position: <div class="page-break"></div>Technical Customer Support Agent for Lexmark
       activities: Troubleshooting customers' Lexmark printer issues, <a href="https://thomasdeluca.nl/portfolio/lexmark-webtool" target="_blank">developed an internal application</a> to look up information faster thus decreasing the time needed to help customers
       technologies: Siebel, Boldchat, LogMeIn, internal app written with Hugo and Python.
     - time: Mar. 2017 - Sep. 2017<br>Jul. 2018 - Aug. 2018
@@ -127,7 +127,7 @@ workaways:
       position: Volunteer (receptionist, cleaner, bar staff)
       activities: Checking in/out guests, cleaning hostel, night shifts, making beds, selling drinks at the bar
 
-# gdpr: I hereby authorize the use of my personal data in accordance to the GDPR 679/16 - "European regulation on the protection of personal data".
+gdpr: I hereby authorize the use of my personal data in accordance to the GDPR 679/16 - "European regulation on the protection of personal data".
 
 extends: _layouts.cv
 ---
