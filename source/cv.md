@@ -46,12 +46,12 @@ work:
   label: Work experience
   sublabel: References available upon request. Visit <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> for various projects I made.
   entries:
-    - time: Mar. 2025 - Present
+    - time: Mar. 2025 - May 2026
       place: "<a href='https://www.irecoop.it/' target='_blank'>Irecoop</a>"
       position: Digital skills teacher
       activities: Delivering training courses on digital skills including cybersecurity, Microsoft Office, Google Workspace, and web development
       technologies: Microsoft Office, Google Workspace, Wordpress, Elementor
-    - time: May 2024 - May 2025
+    - time: May 2024 - Present
       place: "<a href='https://essemmemultimedia.it/' target='_blank'>Essemme Multimedia</a>"
       position: ICT Teacher
       activities: Conduct training courses based on the European reference frameworks DigComp 2.2 and DigCompEdu aimed at school staff, teaching the correct and effective use of various digital tools
@@ -63,7 +63,7 @@ work:
       technologies: Zoom, HTML, CSS, Bootstrap, JS, Vuejs, MySQL, PHP, Laravel, Git
     - time: Oct. 2018 - Present
       place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
-      position: IT Support / System Administrator in the Provincial Council
+      position: IT Support / System Administrator
       activities: Configuring servers, troubleshooting issues remotely and onsite, quality control of hardware, writing scripts, provisioning workstations, configuring the network, writing technical documentation
       technologies: Windows Server, IIS, Linux, Apache, VMWare, Python, Grafana, Ivanti, Laravel, Docker
     - time: Jan. 2019 - May 2019

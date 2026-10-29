@@ -44,14 +44,14 @@ tech:
 
 work:
   label: Esperienza lavorativa
-  sublabel: Riferimenti disponibili su richiesta. Visita <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> per vedere vari progetti fatti da me.
+  sublabel: Riferimenti disponibili su richiesta. Visita <a href="https://thomasdeluca.nl/portfolio" target="_blank">thomasdeluca.nl/portfolio</a> per consultare vari progetti sviluppati da me.
   entries:
-    - time: Mar. 2025 - Presente
+    - time: Mar. 2025 - Mag. 2026
       place: "<a href='https://www.irecoop.it/' target='_blank'>Irecoop</a>"
       position: Docente competenze digitali
       activities: Condurre percorsi formativi su competenze digitali relative alla cybersicurezza, all'utilizzo del pacchetto Office, dell'ecosistema Google e allo sviluppo di siti web
       technologies: Pacchetto Office, Google Workspace, Wordpress, Elementor
-    - time: Mag. 2024 - Mag. 2025
+    - time: Mag. 2024 - Presente
       place: "<a href='https://essemmemultimedia.it/' target='_blank'>Essemme Multimedia</a>"
       position: Formatore ICT
       activities: Condurre percorsi formativi basati sui quadri di riferimento europeo DigComp 2.2 e DigCompEdu rivolti al personale scolastico, insegnando l'uso corretto ed efficace di vari strumenti digitali
@@ -63,7 +63,7 @@ work:
       technologies: Zoom, HTML, CSS, JS, MySQL, PHP, Laravel, Git
     - time: Ott. 2018 - Presente
       place: "<a href='https://www.insupport.it/' target='_blank'>InSupport</a>"
-      position: Tecnico Informatico presso l'Amministrazione Provinciale di Forlì-Cesena
+      position: Tecnico Informatico
       activities: Configurazione server, risoluzione di problemi in remoto e sul posto, controllo di qualità di hardware, reinstallazione di sistemi operativi, scrivere documentazione tecnica e manuali per utenti
       technologies: Windows Server, IIS, Linux, Apache, VMWare, Python, Grafana, Ivanti, Laravel, Docker
     - time: Gen. 2019 - Mag. 2019
